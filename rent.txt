@@ -1,0 +1,4936 @@
+ProjectID	BuildingID	AffordabilityBand	TotalUnits
+48887	57693	Very Low Income	17
+48755	72098	Moderate Income	108
+49270	947270	Low Income	36
+49270	947270	Other	1
+48733	386227	Low Income	5
+48733	386227	Very Low Income	2
+48892	53714	Low Income	2
+48892	53714	Very Low Income	9
+49060	64260	Low Income	4
+49060	52764	Low Income	19
+49060	52764	Other	1
+49060	95625	Low Income	4
+49060	64510	Low Income	16
+49060	64309	Low Income	6
+48685	346832	Low Income	11
+48685	346832	Other	1
+48685	330794	Low Income	8
+48685	346837	Low Income	7
+48685	381637	Low Income	3
+48685	317155	Low Income	9
+48685	332710	Low Income	4
+49576	945948	Low Income	68
+49576	945948	Other	1
+48690	744417	Low Income	43
+49070	213832	Low Income	9
+49070	334864	Low Income	4
+49070	357677	Low Income	13
+49070	357669	Low Income	5
+49070	357675	Low Income	3
+49070	357634	Low Income	6
+49070	359775	Low Income	7
+48765	19049	Low Income	8
+48765	42524	Low Income	24
+48765	822049	Low Income	80
+48765	19048	Low Income	8
+48765	19506	Low Income	21
+48765	309680	Low Income	24
+48765	85438	Low Income	21
+48765	85441	Low Income	21
+48765	28116	Low Income	11
+48765	28117	Low Income	11
+48765	28118	Low Income	10
+48765	313693	Low Income	32
+48765	313692	Moderate Income	28
+48765	26937	Low Income	17
+48765	24535	Low Income	34
+48890	59889	Low Income	45
+48686	32921	Low Income	307
+48686	32921	Other	1
+49103	59514	Low Income	54
+49103	59514	Moderate Income	13
+49103	59514	Other	1
+49103	59514	Very Low Income	4
+48896	216940	Extremely Low Income	97
+48896	216940	Low Income	37
+48896	216940	Very Low Income	1
+48625	362389	Low Income	18
+48625	362389	Very Low Income	1
+48625	338754	Low Income	13
+48625	338754	Other	1
+48625	338754	Very Low Income	6
+48625	232147	Low Income	4
+48625	849296	Low Income	28
+48625	849296	Other	1
+48625	849296	Very Low Income	3
+48625	339245	Low Income	4
+48625	339245	Very Low Income	4
+48632	5381	Low Income	25
+48632	5381	Other	1
+48632	5376	Low Income	25
+48632	5374	Low Income	24
+48632	5379	Low Income	24
+48632	5379	Moderate Income	1
+48788	9827	Extremely Low Income	4
+48788	9827	Very Low Income	8
+48657	88527	Low Income	45
+48657	88527	Very Low Income	4
+48657	115745	Low Income	65
+48657	115745	Very Low Income	4
+48657	88530	Low Income	59
+48657	88530	Other	1
+48657	118659	Low Income	10
+48902	88267	Low Income	1
+48902	88267	Very Low Income	14
+48895	806382	Low Income	10
+48895	806382	Very Low Income	2
+48895	806380	Low Income	9
+48895	806380	Very Low Income	3
+48895	806379	Low Income	10
+48895	806379	Very Low Income	2
+48895	806384	Low Income	9
+48895	806384	Very Low Income	3
+48895	806383	Low Income	9
+48895	806383	Very Low Income	3
+48895	57674	Low Income	9
+48895	57674	Very Low Income	3
+48895	806381	Extremely Low Income	1
+48895	806381	Low Income	10
+48895	806381	Very Low Income	1
+48752	110157	Very Low Income	137
+48726	943722	Middle Income	288
+48726	943722	Other	207
+48726	943722	Very Low Income	124
+46299	957262	Low Income	68
+46299	957262	Other	1
+46299	957262	Very Low Income	18
+49534	945855	Low Income	83
+49534	945855	Other	1
+44369	976936	Low Income	10
+44369	976936	Very Low Income	6
+44369	927816	Low Income	3
+44369	927816	Other	1
+44369	927816	Very Low Income	3
+44369	927815	Low Income	9
+44369	927815	Very Low Income	5
+44369	943963	Low Income	4
+44369	943963	Very Low Income	3
+44362	947316	Low Income	133
+44362	947316	Other	1
+48771	806302	Low Income	17
+48771	64911	Low Income	15
+48771	120450	Low Income	8
+48771	120452	Low Income	7
+48771	64974	Low Income	20
+48771	120457	Low Income	11
+48771	806301	Low Income	16
+48771	64901	Low Income	15
+48771	120458	Low Income	10
+48771	56602	Low Income	12
+48771	56847	Low Income	12
+48771	116824	Low Income	21
+48771	116817	Low Income	25
+48771	116827	Low Income	22
+48771	50382	Low Income	20
+48771	50377	Low Income	20
+48771	113800	Low Income	18
+48771	806680	Low Income	24
+46076	934663	Low Income	134
+46076	934663	Other	1
+49281	550156	Low Income	9
+49281	944555	Low Income	13
+49455	42407	Low Income	4
+49455	42407	Moderate Income	14
+49455	42407	Very Low Income	2
+49010	346924	Low Income	2
+48626	197987	Low Income	4
+48626	197987	Moderate Income	4
+48626	214946	Low Income	3
+48626	214946	Moderate Income	5
+48626	359983	Moderate Income	2
+48626	363723	Low Income	5
+48626	363723	Moderate Income	3
+48704	57040	Low Income	24
+48704	57048	Low Income	11
+48704	63982	Low Income	21
+48704	806523	Low Income	31
+48641	967101	Low Income	40
+48641	967101	Very Low Income	15
+48937	21460	Middle Income	7
+48937	21460	Moderate Income	12
+44306	926973	Low Income	5
+44306	926973	Very Low Income	2
+44888	949804	Low Income	114
+44888	949804	Other	1
+48013	60014	Low Income	19
+48013	60014	Other	1
+48013	60061	Low Income	3
+48013	60061	Other	1
+48013	60061	Very Low Income	13
+48013	60013	Low Income	23
+48013	60013	Very Low Income	1
+48013	59349	Low Income	4
+47767	49424	Low Income	15
+47767	70671	Low Income	6
+47767	70287	Low Income	7
+47767	49429	Low Income	18
+47767	49429	Other	1
+47767	70285	Low Income	6
+47767	70285	Other	1
+49909		Moderate Income	1
+51035	683674	Other	6
+50293	66001	Extremely Low Income	1
+50293	66001	Low Income	14
+50293	66001	Very Low Income	6
+44303	927939	Other	1
+44303	927939	Very Low Income	50
+50804	6529	Other	22
+48870	116785	Low Income	139
+50933	811259	Other	11
+50774	633968	Other	7
+44340	969960	Moderate Income	2
+44340	969942	Moderate Income	2
+44340	969937	Moderate Income	2
+44340	969940	Moderate Income	2
+44340	965968	Moderate Income	3
+44340	969943	Moderate Income	2
+44340	969941	Moderate Income	3
+44340	965970	Moderate Income	3
+44340	969938	Moderate Income	2
+44340	969939	Moderate Income	2
+44340	969961	Moderate Income	2
+44340	927586	Moderate Income	2
+44340	927678	Moderate Income	3
+50352	60498	Low Income	12
+50352	60498	Moderate Income	5
+50352	97550	Low Income	29
+50352	97550	Moderate Income	8
+50352	77186	Low Income	54
+50352	77186	Moderate Income	11
+49058	64797	Low Income	68
+48639	945946	Low Income	60
+48639	945946	Other	1
+48639	945946	Very Low Income	94
+49575	945947	Low Income	64
+49575	945947	Other	1
+48678	58944	Low Income	10
+48678	58930	Low Income	4
+48678	88544	Low Income	8
+48678	125023	Low Income	7
+48678	940965	Low Income	3
+48676	42818	Low Income	17
+48676	42818	Middle Income	3
+48676	42815	Low Income	11
+48676	42815	Middle Income	9
+48676	42813	Low Income	14
+48676	42813	Middle Income	1
+48683	18986	Low Income	36
+48683	18990	Low Income	33
+48683	18990	Other	1
+48038	35779	Low Income	14
+48038	35779	Other	1
+48038	35779	Very Low Income	14
+50942	964992	Extremely Low Income	11
+50942	964992	Low Income	55
+50942	964992	Moderate Income	13
+50942	964992	Other	1
+50942	964992	Very Low Income	34
+44249	927160	Low Income	16
+44249	927160	Very Low Income	4
+45280	935092	Low Income	111
+45280	935092	Other	1
+45280	935092	Very Low Income	29
+48746	353050	Low Income	8
+48746	353050	Very Low Income	8
+49067	64306	Extremely Low Income	1
+49067	64306	Low Income	18
+49067	64306	Very Low Income	25
+50819	6422	Other	9
+51064	335986	Other	7
+50821	6426	Other	9
+50753	341971	Other	5
+50638	949243	Extremely Low Income	115
+50638	949243	Low Income	7
+50638	949243	Other	1
+49248		Extremely Low Income	9
+49248		Low Income	19
+49248		Other	1
+49248		Very Low Income	10
+51314	253011	Other	9
+51314	253010	Other	9
+50815	776615	Extremely Low Income	36
+49625	952254	Extremely Low Income	10
+49625	952254	Low Income	57
+49625	952254	Other	1
+49625	952254	Very Low Income	28
+49716	322143	Extremely Low Income	4
+49716	322143	Low Income	4
+49716	247933	Extremely Low Income	1
+49716	247933	Low Income	6
+49716	351171	Low Income	9
+49716	329197	Extremely Low Income	2
+49716	329197	Low Income	2
+49716	329199	Extremely Low Income	2
+49716	329199	Low Income	2
+49716	207180	Extremely Low Income	2
+49716	207180	Low Income	2
+49716	294186	Extremely Low Income	21
+49716	294186	Low Income	5
+49716	294186	Other	1
+49716	388945	Extremely Low Income	5
+49716	388945	Low Income	7
+49716	388945	Very Low Income	1
+49716	388933	Extremely Low Income	6
+49716	388933	Low Income	6
+50605	79714	Low Income	16
+50605	79714	Moderate Income	1
+50605	79714	Very Low Income	3
+50605	79712	Extremely Low Income	2
+50605	79712	Low Income	15
+50605	79712	Other	1
+50605	79712	Very Low Income	2
+50793	821898	Other	16
+50808	11113	Other	5
+44332	973751	Low Income	10
+44332	973750	Low Income	7
+44332	975662	Low Income	8
+51052	11135	Other	12
+50677	348491	Other	190
+50735	251214	Other	16
+51248	9911	Low Income	55
+51248	9911	Moderate Income	2
+51248	9911	Very Low Income	3
+49722	969838	Low Income	27
+49722	969838	Other	1
+49722	969838	Very Low Income	24
+49722	948723	Low Income	72
+49722	948723	Other	1
+49722	948723	Very Low Income	11
+49722	948724	Other	1
+49722	948724	Very Low Income	89
+49722	948722	Low Income	22
+49722	948722	Other	1
+49722	948722	Very Low Income	29
+50741	394534	Low Income	4
+50741	394534	Other	1
+50207	810109	Low Income	2
+50207	810103	Low Income	3
+50207	354367	Very Low Income	3
+50207	810093	Low Income	3
+50207	810096	Low Income	3
+50207	810091	Low Income	3
+50207	810101	Low Income	3
+50207	810105	Low Income	1
+50207	810105	Very Low Income	2
+50207	810094	Low Income	3
+50207	810107	Low Income	1
+50207	810107	Other	1
+50207	810107	Very Low Income	1
+50207	810098	Low Income	3
+50207	810092	Low Income	3
+50207	810095	Low Income	3
+50207	810108	Low Income	2
+50207	810108	Very Low Income	1
+50207	810106	Low Income	1
+50207	810106	Very Low Income	2
+50207	810102	Low Income	3
+50207	810099	Low Income	3
+50207	810104	Low Income	3
+50207	810100	Low Income	3
+50207	300660	Low Income	3
+50606	92440	Low Income	17
+50606	92440	Very Low Income	2
+50606	92439	Low Income	16
+50606	92439	Very Low Income	3
+50606	92441	Low Income	16
+50606	92441	Moderate Income	1
+50606	92441	Other	1
+50606	92441	Very Low Income	1
+50606	64431	Low Income	19
+50606	64431	Very Low Income	5
+48898	822634	Low Income	135
+50294	87096	Low Income	25
+50294	87096	Very Low Income	6
+44339	974382	Extremely Low Income	46
+44339	974382	Low Income	182
+44339	974382	Moderate Income	16
+44339	974382	Other	1
+44339	974382	Very Low Income	60
+55431	806679	Moderate Income	40
+55431	79220	Moderate Income	49
+55431	64661	Moderate Income	13
+55431	806947	Moderate Income	36
+55431	109774	Moderate Income	44
+55431	110203	Moderate Income	43
+55431	110199	Moderate Income	50
+55431	110200	Moderate Income	43
+55431	110204	Moderate Income	43
+55479	720538	Moderate Income	100
+55464	47164	Moderate Income	100
+50777	213197	Other	47
+50744	213199	Other	5
+51252	116663	Low Income	45
+51252	116663	Other	1
+51252	46526	Low Income	6
+51252	46526	Very Low Income	3
+51252	46525	Low Income	8
+51252	46525	Other	1
+51252	119119	Low Income	38
+51252	119119	Other	1
+51252	119119	Very Low Income	3
+50193	341863	Low Income	8
+50193	808774	Low Income	8
+50193	341859	Low Income	6
+50193	387264	Low Income	6
+50193	341864	Low Income	8
+50193	329481	Low Income	8
+44431	965100	Extremely Low Income	12
+44431	965100	Low Income	62
+44431	965100	Very Low Income	8
+44431	974694	Extremely Low Income	19
+44431	974694	Low Income	91
+44431	974694	Other	1
+44431	974694	Very Low Income	13
+50996	837304	Other	56
+50996	837303	Other	56
+50837	881542	Other	40
+50820	11252	Other	30
+50278	115544	Very Low Income	32
+50278	45438	Very Low Income	16
+50278	120990	Very Low Income	13
+50278	56949	Very Low Income	20
+50278	45594	Very Low Income	21
+50278	100202	Very Low Income	16
+50278	112044	Very Low Income	21
+50805	11576	Other	7
+50026	947649	Extremely Low Income	50
+50026	947649	Low Income	5
+50026	927138	Extremely Low Income	56
+50026	927138	Low Income	22
+50026	927138	Other	1
+55433	47173	Moderate Income	116
+51067	11583	Other	24
+50869	634610	Other	5
+51104	956094	Low Income	22
+51104	956094	Other	84
+51104	956094	Other	1
+47888	20827	Low Income	10
+49713	950357	Extremely Low Income	57
+49713	950357	Low Income	37
+49713	950357	Other	1
+47960	51236	Low Income	35
+47960	51236	Other	1
+47960	59221	Low Income	29
+47960	59221	Other	1
+47960	81557	Low Income	43
+47960	81557	Other	1
+47960	114432	Low Income	15
+51778	955507	Extremely Low Income	20
+51778	955507	Low Income	197
+51778	955507	Other	1
+51778	955507	Very Low Income	30
+48973	40680	Low Income	11
+48973	40680	Moderate Income	4
+48624	326470	Low Income	5
+48624	326470	Moderate Income	1
+48624	376539	Low Income	15
+48624	376539	Other	1
+48624	380356	Low Income	5
+48624	380356	Moderate Income	1
+48624	376543	Low Income	16
+48624	366365	Low Income	12
+48624	376557	Low Income	19
+48624	376557	Moderate Income	12
+48624	330826	Low Income	4
+48624	330826	Moderate Income	4
+48908	358597	Extremely Low Income	6
+48908	358597	Low Income	2
+48908	139704	Extremely Low Income	2
+48908	139704	Middle Income	6
+48908	307271	Low Income	5
+48908	307271	Moderate Income	1
+48908	330827	Extremely Low Income	4
+48908	330827	Low Income	4
+48908	330823	Extremely Low Income	1
+48908	330823	Low Income	1
+48908	330823	Very Low Income	6
+48908	375083	Extremely Low Income	6
+48908	375083	Low Income	2
+48908	352128	Extremely Low Income	7
+48908	352128	Low Income	2
+48908	352128	Very Low Income	7
+48908	375049	Low Income	4
+48908	375084	Extremely Low Income	3
+48908	375084	Very Low Income	5
+48014	113781	Low Income	14
+48014	88674	Low Income	16
+47962	60640	Low Income	10
+47962	60640	Very Low Income	1
+47962	109771	Low Income	16
+47962	109771	Other	1
+47962	109771	Very Low Income	14
+48607	92694	Low Income	8
+48607	92694	Other	1
+48607	80080	Low Income	42
+48607	80080	Other	1
+48607	87863	Low Income	48
+48607	87863	Other	1
+48607	65790	Low Income	36
+48607	65790	Other	1
+48732	43250	Low Income	26
+48794	62836	Other	1
+48794	62836	Very Low Income	9
+48794	806338	Very Low Income	15
+48794	63883	Other	1
+48794	63883	Very Low Income	12
+48794	806337	Very Low Income	15
+48794	62837	Extremely Low Income	2
+48794	62837	Low Income	14
+48794	62837	Other	1
+48794	62837	Very Low Income	7
+48794	902977	Other	1
+48794	902977	Very Low Income	14
+48794	52677	Very Low Income	14
+50801	6603	Other	16
+44285	927618	Moderate Income	2
+44285	927624	Middle Income	2
+44285	972362	Middle Income	2
+44285	972363	Middle Income	2
+44285	927981	Moderate Income	2
+44285	927625	Middle Income	2
+44285	927982	Moderate Income	2
+44285	927191	Middle Income	2
+44285	927626	Middle Income	2
+44285	331134	Middle Income	2
+48763	3607	Low Income	8
+48763	4163	Low Income	7
+48763	4163	Moderate Income	1
+48763	7470	Low Income	14
+48763	7470	Very Low Income	6
+48763	42323	Low Income	7
+48763	42323	Very Low Income	11
+48647	976517	Extremely Low Income	96
+48647	976517	Low Income	64
+48647	976517	Other	1
+50156	944796	Low Income	67
+50156	944796	Moderate Income	42
+50156	944796	Other	1
+50407	362337	Low Income	3
+50407	809877	Low Income	2
+50407	342753	Low Income	3
+50407	342738	Low Income	3
+50407	342745	Low Income	10
+50407	342748	Low Income	3
+50407	362352	Low Income	3
+50407	342757	Low Income	3
+50407	342742	Low Income	3
+50407	342739	Low Income	3
+50407	342744	Low Income	3
+50407	362339	Low Income	3
+50407	362334	Low Income	12
+50407	362349	Low Income	3
+50407	379928	Low Income	22
+50407	328562	Low Income	6
+50407	809283	Low Income	16
+50407	808942	Low Income	7
+50407	808939	Low Income	6
+50407	395843	Low Income	16
+50407	395827	Low Income	13
+50407	395834	Low Income	8
+50407	395846	Low Income	8
+50407	395840	Low Income	16
+50407	395849	Low Income	6
+50407	395844	Low Income	16
+50407	395836	Low Income	16
+50407	395830	Low Income	13
+50407	395829	Low Income	13
+50407	395833	Low Income	13
+50407	395877	Low Income	9
+50407	807552	Low Income	6
+50407	807553	Low Income	6
+50407	207686	Low Income	16
+50407	207683	Low Income	23
+50407	354251	Low Income	1
+50407	354170	Low Income	3
+50407	354165	Low Income	10
+50407	234974	Low Income	19
+50407	299970	Low Income	2
+50407	299963	Low Income	2
+50407	300002	Low Income	3
+50407	913572	Low Income	24
+50407	289096	Low Income	16
+50407	342542	Low Income	4
+50407	342526	Low Income	6
+50407	342523	Low Income	4
+50407	342533	Low Income	3
+50407	353145	Low Income	19
+50407	353190	Low Income	15
+50407	313104	Low Income	4
+50407	949647	Low Income	3
+50407	940976	Low Income	6
+50407	940975	Low Income	6
+50407	183060	Low Income	6
+50205	65477	Low Income	42
+50205	65477	Other	1
+50205	65477	Very Low Income	6
+50205	97967	Low Income	54
+50205	97967	Moderate Income	1
+50205	97967	Very Low Income	4
+50205	65478	Extremely Low Income	1
+50205	65478	Low Income	53
+50205	65478	Moderate Income	2
+50205	65478	Other	1
+50205	65478	Very Low Income	2
+50205	116780	Extremely Low Income	3
+50205	116780	Low Income	31
+50205	116780	Moderate Income	1
+50205	116780	Other	1
+50205	116780	Very Low Income	7
+50205	111969	Extremely Low Income	1
+50205	111969	Low Income	54
+50205	111969	Moderate Income	2
+50205	111969	Other	1
+50205	111969	Very Low Income	1
+49173	946227	Low Income	2
+49173	946227	Other	1
+49173	946227	Very Low Income	28
+50088	949394	Low Income	84
+50088	949394	Moderate Income	27
+50088	949394	Other	1
+50088	949394	Very Low Income	22
+48143	5813	Low Income	5
+48143	5813	Very Low Income	11
+48143	5781	Low Income	1
+48143	5781	Other	1
+48143	5781	Very Low Income	11
+48143	3615	Low Income	10
+48143	3615	Very Low Income	6
+48143	4160	Low Income	6
+48143	4160	Very Low Income	7
+50847	637018	Other	41
+44319	927209	Low Income	9
+44319	927209	Very Low Income	1
+44319	955280	Extremely Low Income	3
+44319	955280	Low Income	13
+44319	955280	Other	1
+44319	955280	Very Low Income	1
+44319	955279	Low Income	6
+44319	955283	Extremely Low Income	5
+44319	955283	Low Income	13
+44319	955283	Very Low Income	1
+52000	110423	Low Income	38
+52000	110423	Moderate Income	5
+52000	110423	Very Low Income	3
+51384	11126	Other	30
+51384	11124	Other	20
+52665	234701	Low Income	21
+53188	45564	Extremely Low Income	16
+53188	45564	Other	1
+53188	45564	Very Low Income	39
+53655	120441	Extremely Low Income	4
+53655	120441	Low Income	3
+53655	120441	Very Low Income	5
+53655	116883	Extremely Low Income	2
+53655	116883	Low Income	2
+53655	116883	Very Low Income	7
+53655	60419	Extremely Low Income	4
+53655	60419	Low Income	9
+53655	60419	Moderate Income	1
+53655	60419	Other	1
+53655	60419	Very Low Income	10
+53655	56805	Extremely Low Income	9
+53655	56805	Low Income	19
+53655	56805	Other	1
+53655	56805	Very Low Income	26
+53655	56835	Extremely Low Income	3
+53655	56835	Low Income	3
+53655	56835	Very Low Income	7
+53655	64879	Extremely Low Income	2
+53655	64879	Low Income	2
+53655	64879	Other	1
+53655	64879	Very Low Income	4
+53655	116887	Extremely Low Income	22
+53655	116887	Low Income	23
+53655	116887	Moderate Income	1
+53655	116887	Other	1
+53655	116887	Very Low Income	31
+53655	60414	Extremely Low Income	1
+53655	60414	Low Income	4
+53655	60414	Very Low Income	4
+53655	64872	Extremely Low Income	2
+53655	64872	Low Income	5
+53655	64872	Other	1
+53655	64872	Very Low Income	8
+53655	53832	Extremely Low Income	7
+53655	53832	Low Income	17
+53655	53832	Moderate Income	5
+53655	53832	Other	1
+53655	53832	Very Low Income	17
+53655	99246	Extremely Low Income	2
+53655	99246	Low Income	1
+53655	99246	Moderate Income	1
+53655	65038	Extremely Low Income	4
+53655	65038	Low Income	11
+53655	65038	Other	1
+53655	65038	Very Low Income	6
+51481	11391	Other	32
+51485	102762	Other	15
+52733	4189	Low Income	25
+52733	4189	Moderate Income	24
+52733	4183	Low Income	9
+52733	4183	Moderate Income	18
+52733	41421	Low Income	3
+52733	41421	Moderate Income	11
+52733	41421	Other	1
+52733	3583	Low Income	51
+52733	3583	Moderate Income	2
+52733	3583	Other	1
+52733	41419	Low Income	8
+52733	41419	Moderate Income	6
+52733	41419	Other	1
+52733	42410	Low Income	6
+52733	42410	Moderate Income	12
+52733	41411	Low Income	2
+52733	41411	Moderate Income	8
+52733	41417	Low Income	3
+52733	41417	Moderate Income	7
+52733	4173	Low Income	8
+52733	4173	Moderate Income	4
+52733	4175	Low Income	18
+52733	4175	Moderate Income	25
+52733	4175	Other	1
+52733	42408	Moderate Income	7
+52733	41409	Low Income	10
+52733	41409	Moderate Income	4
+52733	41409	Other	1
+52733	7475	Low Income	8
+52733	7475	Moderate Income	9
+52733	7475	Other	1
+52733	42097	Low Income	16
+52733	42097	Moderate Income	24
+52733	42097	Other	1
+52733	41897	Low Income	6
+52733	41897	Moderate Income	10
+52733	3437	Low Income	10
+52733	3437	Other	1
+52733	38846	Low Income	12
+52733	23437	Low Income	13
+52733	23452	Low Income	4
+52733	941090	Low Income	8
+54407	108496	Low Income	17
+54407	108496	Moderate Income	6
+54407	108496	Other	1
+54407	108496	Very Low Income	6
+52722	975847	Extremely Low Income	3
+52722	975847	Low Income	10
+52722	975847	Very Low Income	5
+52722	958049	Extremely Low Income	5
+52722	958049	Low Income	27
+52722	958049	Other	1
+52722	958049	Very Low Income	25
+52985	79168	Extremely Low Income	40
+52985	79168	Low Income	3
+52985	79168	Very Low Income	9
+52723	955765	Extremely Low Income	20
+52723	955765	Low Income	24
+52723	955765	Very Low Income	4
+52723	955764	Extremely Low Income	42
+52723	955764	Low Income	52
+52723	955764	Other	1
+52723	955764	Very Low Income	6
+52721	78260	Extremely Low Income	41
+52721	78260	Low Income	1
+52721	78260	Other	1
+52721	78260	Very Low Income	5
+52721	78268	Extremely Low Income	33
+52721	78268	Low Income	2
+52721	78268	Moderate Income	1
+52721	78268	Other	1
+52721	78268	Very Low Income	5
+52721	97703	Extremely Low Income	9
+52721	97703	Low Income	2
+52721	97703	Moderate Income	2
+52721	97703	Very Low Income	3
+52721	56810	Extremely Low Income	41
+52721	56810	Low Income	2
+52721	56810	Very Low Income	11
+52721	78256	Extremely Low Income	51
+52721	78256	Low Income	9
+52721	78256	Moderate Income	1
+52721	78256	Other	1
+52721	78256	Very Low Income	8
+52721	64753	Extremely Low Income	6
+52721	64753	Very Low Income	1
+52721	97700	Extremely Low Income	20
+52721	97700	Low Income	3
+52721	97700	Other	1
+52721	97700	Very Low Income	6
+52721	64864	Extremely Low Income	33
+52721	64864	Low Income	2
+52721	64864	Other	1
+52721	56814	Extremely Low Income	38
+52721	56814	Low Income	5
+52721	56814	Moderate Income	1
+52721	56814	Other	1
+52721	56814	Very Low Income	9
+52721	56808	Extremely Low Income	45
+52721	56808	Low Income	1
+52721	56808	Moderate Income	2
+52721	56808	Other	1
+52721	56808	Very Low Income	5
+52721	65116	Extremely Low Income	17
+52721	65116	Low Income	2
+52721	65116	Other	1
+52721	65117	Extremely Low Income	29
+52721	65117	Low Income	3
+52721	65117	Very Low Income	2
+52721	97364	Extremely Low Income	34
+52721	97364	Low Income	2
+52721	97364	Moderate Income	1
+52721	97364	Very Low Income	6
+52721	82104	Extremely Low Income	35
+52721	82104	Low Income	3
+52721	82104	Other	1
+52721	82104	Very Low Income	4
+52721	109441	Extremely Low Income	51
+52721	109441	Low Income	1
+52721	109441	Moderate Income	1
+52721	109441	Other	1
+52721	109441	Very Low Income	3
+52721	109440	Extremely Low Income	24
+52721	109440	Low Income	1
+52721	109440	Very Low Income	2
+52721	109442	Extremely Low Income	38
+52721	109442	Other	1
+52721	109442	Very Low Income	2
+52667	955526	Low Income	45
+52667	955526	Other	1
+52667	955526	Very Low Income	12
+51726	903004	Other	8
+51990	394979	Other	5
+51812	861876	Other	3
+51812	861875	Other	3
+52396	965076	Low Income	129
+52396	965076	Moderate Income	126
+52396	965076	Other	1
+53277	341076	Low Income	159
+52817	21585	Other	124
+52735	810153	Extremely Low Income	23
+52735	810153	Low Income	4
+52735	810153	Moderate Income	1
+52735	810153	Other	1
+52735	810153	Very Low Income	121
+52083	967329	Low Income	53
+52083	967329	Middle Income	28
+52083	967329	Moderate Income	17
+52083	967329	Other	106
+52083	967329	Other	1
+52083	967329	Very Low Income	6
+51652	953622	Extremely Low Income	51
+51652	953622	Low Income	14
+51652	953622	Other	1
+52693	18971	Low Income	8
+52693	23979	Low Income	6
+52693	23979	Other	1
+52349	24188	Low Income	50
+52752	297808	Low Income	5
+52752	362512	Low Income	7
+52752	362510	Low Income	5
+52752	297795	Low Income	5
+52752	297795	Very Low Income	1
+52752	297779	Low Income	4
+52752	297779	Very Low Income	3
+52752	297818	Low Income	3
+52752	297818	Very Low Income	1
+52752	380139	Low Income	5
+52752	297807	Low Income	5
+52752	297832	Low Income	2
+52752	297832	Other	1
+52752	297832	Very Low Income	1
+52752	380148	Low Income	6
+52752	297804	Low Income	6
+52752	301861	Low Income	15
+52752	301861	Other	1
+52752	383504	Low Income	9
+52752	371723	Low Income	9
+52752	382758	Low Income	3
+52752	382758	Other	1
+52752	382757	Low Income	4
+52752	808371	Low Income	8
+52752	808371	Very Low Income	4
+52752	808369	Low Income	4
+52752	808368	Low Income	7
+52752	808368	Very Low Income	1
+52798	955842	Low Income	17
+52798	955842	Other	1
+52798	955842	Very Low Income	118
+51274	804358	Other	22
+51274	6564	Other	72
+51274	804063	Other	278
+52941	806388	Low Income	264
+52941	806388	Very Low Income	48
+52941	97290	Low Income	264
+52941	97290	Very Low Income	48
+52941	806181	Low Income	264
+52941	806181	Very Low Income	48
+52941	806390	Low Income	264
+52941	806390	Very Low Income	48
+52941	806389	Low Income	264
+52941	806389	Very Low Income	48
+52941	109464	Low Income	264
+52941	109464	Very Low Income	48
+52674	40979	Low Income	14
+52674	40979	Very Low Income	5
+52674	39869	Low Income	15
+52674	39869	Very Low Income	3
+52674	28111	Low Income	10
+52674	4060	Low Income	8
+52674	4060	Other	1
+52674	41105	Low Income	19
+52674	41105	Very Low Income	5
+52674	40974	Low Income	7
+52674	40974	Very Low Income	3
+52674	40976	Low Income	9
+52674	40976	Very Low Income	1
+52674	4067	Low Income	13
+52674	4067	Very Low Income	1
+52674	39807	Low Income	23
+52674	39807	Other	1
+52674	41124	Low Income	9
+52674	41124	Very Low Income	2
+52674	39782	Low Income	24
+52674	40978	Low Income	9
+52674	40978	Very Low Income	1
+52674	4055	Low Income	9
+52674	40957	Low Income	14
+52674	40957	Other	1
+52674	40957	Very Low Income	2
+52674	40956	Low Income	10
+52674	2660	Low Income	26
+52674	2660	Other	1
+52674	23590	Low Income	8
+52674	40339	Low Income	21
+52674	40339	Other	1
+52674	40339	Very Low Income	3
+52674	40053	Low Income	4
+52674	40049	Low Income	29
+52674	40380	Low Income	4
+52674	40378	Low Income	4
+52674	40350	Low Income	8
+52674	40379	Low Income	3
+52674	40379	Very Low Income	1
+52674	40383	Low Income	3
+52674	40383	Very Low Income	1
+52674	40059	Low Income	4
+52674	40225	Low Income	13
+52674	40225	Other	1
+52674	40055	Low Income	4
+52661	956798	Low Income	132
+52661	956798	Other	1
+52661	956798	Very Low Income	19
+52610	950310	Low Income	123
+52610	950310	Moderate Income	40
+53437	64657	Very Low Income	43
+53437	45511	Very Low Income	64
+53437	806776	Very Low Income	59
+53437	45509	Very Low Income	82
+52758	232319	Low Income	4
+52758	232319	Very Low Income	2
+52758	334922	Low Income	1
+52758	334922	Middle Income	1
+52758	334922	Very Low Income	1
+52758	213936	Low Income	2
+52758	334901	Low Income	3
+52758	334901	Very Low Income	3
+52758	232317	Low Income	4
+52758	232317	Very Low Income	2
+52758	334936	Low Income	4
+52758	334936	Very Low Income	2
+52758	334939	Low Income	5
+52758	334939	Very Low Income	1
+52758	334915	Low Income	6
+52758	334915	Very Low Income	2
+52758	334892	Low Income	6
+52758	380112	Low Income	16
+52758	380112	Middle Income	8
+52758	380112	Very Low Income	2
+52758	334889	Low Income	2
+52758	334889	Very Low Income	4
+52758	334886	Low Income	6
+52758	301835	Low Income	12
+52758	301835	Middle Income	9
+52758	301835	Very Low Income	2
+52758	334903	Low Income	3
+52758	334903	Very Low Income	3
+52758	380683	Low Income	6
+52758	234869	Low Income	20
+52758	234869	Middle Income	3
+52758	362714	Low Income	11
+52758	362714	Middle Income	3
+52758	362714	Very Low Income	2
+52758	314170	Low Income	15
+52758	314170	Middle Income	1
+52758	314270	Low Income	5
+52758	314270	Middle Income	1
+52758	330375	Low Income	13
+52758	330375	Very Low Income	3
+52758	330367	Low Income	2
+52758	313959	Low Income	6
+52758	313969	Low Income	4
+52758	313969	Middle Income	2
+52758	379354	Low Income	3
+52758	379354	Very Low Income	3
+52758	287626	Low Income	10
+52758	287626	Middle Income	2
+52758	287616	Low Income	12
+52758	287616	Middle Income	3
+52758	287616	Very Low Income	1
+52758	287624	Low Income	15
+52758	287624	Middle Income	1
+52758	287624	Very Low Income	4
+52758	287645	Low Income	15
+52758	287645	Very Low Income	1
+52758	287213	Low Income	10
+52758	287213	Middle Income	1
+52758	287213	Very Low Income	1
+52758	376556	Low Income	6
+52758	376556	Middle Income	2
+52758	351579	Low Income	16
+52758	351579	Middle Income	5
+52758	351579	Very Low Income	1
+52758	349937	Low Income	6
+52758	349937	Very Low Income	10
+52758	185927	Low Income	10
+52758	185927	Middle Income	8
+67079	952514	Low Income	42
+67079	952514	Other	1
+67079	952514	Very Low Income	11
+55403	42693	Low Income	98
+62039	934090	Low Income	79
+62039	934090	Other	1
+51300	631575	Other	301
+51300	811186	Other	301
+55216	811270	Middle Income	229
+55216	811269	Middle Income	229
+55216	633610	Middle Income	229
+55216	811267	Middle Income	231
+55216	811268	Middle Income	231
+51278	951227	Low Income	70
+51278	951227	Other	1
+51278	951227	Very Low Income	18
+51666	956416	Other	6
+51666	956421	Other	5
+51666	956403	Other	7
+51666	956432	Other	6
+51666	956411	Other	6
+51666	956412	Other	4
+51666	956408	Other	6
+51666	956407	Other	6
+51666	956406	Other	6
+51666	956400	Other	6
+51666	956404	Other	8
+51666	956405	Other	6
+51666	956419	Other	6
+51666	956410	Other	6
+51666	956409	Other	6
+51666	956417	Other	4
+51666	956402	Other	6
+52056	65995	Low Income	44
+52056	118505	Low Income	44
+52056	118501	Low Income	26
+52056	65993	Low Income	18
+52056	118494	Low Income	38
+52056	118499	Low Income	24
+52056	118496	Low Income	27
+52056	96830	Low Income	40
+52056	96827	Low Income	54
+52056	96824	Low Income	15
+51522	857780	Other	6
+51939	243771	Other	9
+51261	804799	Other	84
+51261	2716	Other	60
+51261	2713	Other	297
+51261	904741	Other	184
+52662	90958	Low Income	48
+52662	90958	Middle Income	20
+52662	90958	Other	1
+52662	90958	Very Low Income	4
+52662	92486	Low Income	14
+52662	92486	Middle Income	5
+52662	92486	Very Low Income	6
+52662	92487	Low Income	11
+52662	92487	Middle Income	7
+52662	92487	Other	1
+52662	92487	Very Low Income	6
+52662	92484	Low Income	17
+52662	92484	Middle Income	6
+52662	92484	Other	1
+52662	92484	Very Low Income	2
+52223	954207	Extremely Low Income	89
+52223	954207	Low Income	1
+50258	119162	Low Income	54
+50258	119146	Low Income	31
+54727	174301	Other	1
+54727	174301	Very Low Income	70
+55073	633573	Other	276
+55073	691523	Other	276
+55073	848968	Other	216
+55073	811203	Other	276
+55073	811209	Other	216
+55073	957491	Other	276
+55073	889319	Other	216
+54909	971874	Extremely Low Income	9
+54909	971874	Low Income	60
+54909	971874	Other	1
+54909	971874	Very Low Income	20
+54909	972724	Extremely Low Income	8
+54909	972724	Low Income	60
+54909	972724	Very Low Income	22
+54909	953939	Extremely Low Income	7
+54909	953939	Low Income	24
+54909	953939	Other	1
+54909	953939	Very Low Income	30
+51299	928126	Low Income	105
+51299	928126	Other	1
+51299	928126	Very Low Income	45
+51299	956539	Low Income	94
+51299	956539	Other	1
+51299	956539	Very Low Income	41
+51405	950857	Other	76
+52783	987083	Extremely Low Income	35
+52783	987083	Low Income	64
+52783	987083	Other	1
+52783	987083	Very Low Income	12
+52202	811201	Other	57
+52202	811202	Other	57
+52202	811199	Other	57
+52202	811200	Other	57
+52202	811198	Other	57
+52202	632850	Other	57
+52827	51239	Extremely Low Income	2
+52827	51239	Low Income	51
+52827	51239	Moderate Income	2
+57702	826115	Other	15
+48730	118661	Low Income	12
+48754	865282	Other	1
+48754	865282	Very Low Income	68
+47772	9980	Extremely Low Income	7
+47772	9980	Very Low Income	32
+47861	396594	Low Income	6
+47861	396594	Very Low Income	2
+55431	806679	Moderate Income	40
+55431	79220	Moderate Income	49
+55431	64661	Moderate Income	13
+55431	806947	Moderate Income	36
+55431	109774	Moderate Income	44
+55431	110203	Moderate Income	43
+55431	110199	Moderate Income	50
+55431	110200	Moderate Income	43
+55431	110204	Moderate Income	43
+49562	60426	Low Income	38
+49562	60426	Very Low Income	48
+51023	809070	Other	174
+48002	396200	Low Income	2
+48002	396200	Very Low Income	1
+48002	396127	Very Low Income	4
+48002	302967	Low Income	1
+48002	302967	Very Low Income	4
+48002	210828	Low Income	1
+48002	210828	Very Low Income	2
+48002	230079	Low Income	2
+48002	230079	Very Low Income	3
+48002	303867	Very Low Income	6
+48002	303837	Low Income	1
+48002	303837	Very Low Income	4
+48002	398316	Very Low Income	3
+48002	398306	Very Low Income	2
+48002	377625	Low Income	1
+48002	377625	Very Low Income	4
+48002	340299	Low Income	2
+48002	340299	Very Low Income	3
+48644	948176	Low Income	96
+48644	948176	Other	1
+48644	948176	Very Low Income	11
+50329	948333	Low Income	17
+50623	860085	Other	71
+50623	860085	Other	1
+48646	375	Extremely Low Income	202
+48646	375	Other	1
+55403	42693	Low Income	98
+55437	966924	Low Income	75
+55437	966924	Middle Income	181
+55437	966924	Moderate Income	26
+55437	966924	Other	1
+55437	966924	Very Low Income	15
+55464	47164	Moderate Income	100
+55433	47173	Moderate Income	116
+55479	720538	Moderate Income	100
+55396	746078	Extremely Low Income	429
+55396	746078	Low Income	107
+55500	1869	Low Income	92
+55428	64060	Low Income	207
+55428	10709	Low Income	24
+55428	11879	Low Income	269
+55428	805037	Low Income	80
+55428	306316	Low Income	251
+55428	306316	Other	1
+55428	20311	Low Income	42
+58450	119065	Extremely Low Income	1
+58450	119065	Low Income	34
+58450	119065	Moderate Income	1
+58450	119065	Very Low Income	35
+58450	115650	Extremely Low Income	5
+58450	115650	Low Income	43
+58450	115650	Moderate Income	3
+58450	115650	Very Low Income	45
+58450	115643	Extremely Low Income	1
+58450	115643	Low Income	32
+58450	115643	Very Low Income	26
+58450	119052	Low Income	21
+58450	119052	Moderate Income	2
+58450	119052	Very Low Income	31
+58450	115656	Extremely Low Income	4
+58450	115656	Low Income	18
+58450	115656	Very Low Income	27
+58450	115649	Extremely Low Income	2
+58450	115649	Low Income	23
+58450	115649	Other	1
+58450	115649	Very Low Income	29
+58450	119056	Extremely Low Income	2
+58450	119056	Low Income	20
+58450	119056	Moderate Income	2
+58450	119056	Very Low Income	30
+58450	119055	Low Income	13
+58450	119055	Moderate Income	1
+58450	119055	Very Low Income	16
+58450	115648	Extremely Low Income	1
+58450	115648	Low Income	37
+58450	115648	Moderate Income	2
+58450	115648	Very Low Income	53
+58450	115645	Extremely Low Income	2
+58450	115645	Low Income	49
+58450	115645	Moderate Income	1
+58450	115645	Other	1
+58450	115645	Very Low Income	53
+58450	119047	Extremely Low Income	2
+58450	119047	Low Income	31
+58450	119047	Very Low Income	35
+58450	119064	Extremely Low Income	1
+58450	119064	Low Income	23
+58450	119064	Very Low Income	26
+58450	115653	Extremely Low Income	1
+58450	115653	Low Income	21
+58450	115653	Very Low Income	26
+58450	115652	Extremely Low Income	1
+58450	115652	Low Income	28
+58450	115652	Moderate Income	3
+58450	115652	Other	1
+58450	115652	Very Low Income	27
+58480	973555	Low Income	169
+58480	973555	Moderate Income	42
+58480	973555	Other	1
+58621	972781	Low Income	113
+58621	972781	Moderate Income	43
+58621	972781	Other	1
+58621	972781	Very Low Income	17
+58625	967648	Low Income	105
+58625	967648	Moderate Income	60
+58625	967648	Other	1
+58625	967648	Very Low Income	66
+58631	967649	Low Income	25
+50778	842134	Other	6
+52415	965693	Extremely Low Income	42
+52415	965693	Low Income	12
+52415	965693	Other	1
+52415	965693	Very Low Income	14
+52467	921886	Extremely Low Income	138
+52467	921886	Other	2
+52467	955101	Extremely Low Income	57
+48897	8023	Very Low Income	16
+48634	803993	Extremely Low Income	1
+48634	803993	Low Income	16
+48634	803993	Very Low Income	8
+48634	5380	Extremely Low Income	2
+48634	5380	Low Income	13
+48634	5380	Moderate Income	4
+48634	5380	Other	1
+48634	5380	Very Low Income	6
+58555	927741	Moderate Income	3
+58555	927732	Moderate Income	3
+58555	965967	Moderate Income	3
+58555	965966	Moderate Income	3
+58555	927146	Moderate Income	3
+58555	927610	Moderate Income	3
+58555	927165	Moderate Income	3
+58555	927141	Moderate Income	3
+58555	927153	Moderate Income	3
+58555	927614	Moderate Income	3
+58555	969934	Moderate Income	3
+58555	927613	Moderate Income	3
+58555	927966	Moderate Income	3
+58555	820177	Moderate Income	2
+58555	974490	Moderate Income	3
+58555	974491	Moderate Income	3
+58555	974492	Moderate Income	3
+48254	316613	Low Income	12
+48254	316613	Middle Income	6
+58589	381673	Low Income	1
+58589	381673	Other	1
+58589	381673	Very Low Income	2
+58589	306817	Low Income	2
+58589	306817	Middle Income	1
+58589	306817	Very Low Income	1
+58589	330972	Low Income	3
+58589	330972	Middle Income	2
+58589	330972	Very Low Income	1
+58589	381667	Low Income	7
+58589	381667	Middle Income	1
+58589	381667	Moderate Income	5
+58589	381667	Very Low Income	2
+58589	330965	Low Income	4
+58589	330965	Moderate Income	1
+58589	330965	Very Low Income	1
+58589	330961	Low Income	4
+58589	330961	Very Low Income	2
+58589	330962	Low Income	4
+58589	330962	Very Low Income	2
+58589	306841	Low Income	4
+58589	306841	Moderate Income	1
+58589	330959	Low Income	2
+58589	330959	Middle Income	1
+58589	330959	Moderate Income	1
+58589	330959	Other	1
+58589	330959	Very Low Income	1
+58589	381669	Low Income	6
+58589	381669	Moderate Income	1
+58589	330821	Low Income	4
+58589	330821	Middle Income	2
+58589	330821	Very Low Income	1
+58589	332727	Low Income	4
+58589	317083	Low Income	1
+58589	317083	Middle Income	1
+58589	317083	Moderate Income	1
+58589	358151	Low Income	4
+58589	358074	Low Income	2
+58589	358074	Middle Income	1
+58589	358074	Moderate Income	1
+58589	358074	Very Low Income	1
+58589	358136	Low Income	4
+58589	358136	Moderate Income	2
+58589	358228	Low Income	2
+58589	358228	Middle Income	1
+58589	358228	Very Low Income	1
+58589	338936	Low Income	3
+58589	338936	Middle Income	1
+58638	973182	Extremely Low Income	23
+58638	973182	Low Income	130
+58658	19358	Extremely Low Income	2
+58658	19358	Very Low Income	5
+58658	19615	Extremely Low Income	4
+58658	19615	Very Low Income	6
+58658	525	Extremely Low Income	6
+58658	525	Very Low Income	3
+58658	18802	Extremely Low Income	6
+58658	18802	Very Low Income	2
+58658	2544	Extremely Low Income	4
+58658	2544	Very Low Income	4
+58792	807660	Extremely Low Income	135
+58792	807687	Extremely Low Income	135
+58792	807686	Extremely Low Income	135
+58792	199381	Extremely Low Income	135
+58793	974501	Extremely Low Income	48
+58793	974501	Low Income	20
+58823	381604	Low Income	5
+58823	381604	Moderate Income	1
+52757	807747	Low Income	8
+52757	205657	Low Income	8
+52757	809144	Low Income	24
+52757	809144	Other	1
+52757	809144	Very Low Income	7
+52757	807748	Low Income	4
+52757	807748	Other	1
+52757	807748	Very Low Income	2
+52757	807746	Low Income	7
+52757	807746	Very Low Income	1
+52757	332699	Low Income	15
+52757	332699	Very Low Income	2
+52757	387003	Low Income	13
+52757	387003	Very Low Income	3
+52757	386987	Low Income	14
+52757	386987	Very Low Income	2
+52757	387226	Low Income	15
+52757	387226	Very Low Income	1
+52757	387191	Low Income	12
+52757	387191	Other	1
+52757	387191	Very Low Income	4
+52757	326400	Low Income	13
+52757	326400	Very Low Income	3
+52757	215387	Low Income	28
+52757	215387	Other	1
+52757	215387	Very Low Income	3
+52757	808391	Low Income	15
+52757	808391	Other	1
+52757	808391	Very Low Income	3
+58908	206029	Extremely Low Income	55
+58908	206029	Low Income	4
+58908	206029	Very Low Income	4
+52782	958149	Extremely Low Income	8
+52782	958149	Low Income	35
+52782	958149	Other	1
+52782	958149	Very Low Income	16
+47878	19629	Moderate Income	9
+58829	64797	Extremely Low Income	15
+58829	64797	Low Income	7
+58829	64797	Other	1
+58829	64797	Very Low Income	45
+58860	385683	Extremely Low Income	2
+58860	385683	Low Income	3
+58860	385683	Very Low Income	8
+58860	183431	Low Income	5
+58860	183431	Moderate Income	1
+58860	183431	Very Low Income	6
+58860	183367	Extremely Low Income	1
+58860	183367	Low Income	2
+58860	183367	Very Low Income	7
+58860	381529	Extremely Low Income	1
+58860	381529	Very Low Income	5
+58860	374712	Very Low Income	12
+58860	205661	Low Income	2
+58860	205661	Very Low Income	3
+58860	387117	Very Low Income	3
+58860	385685	Extremely Low Income	3
+58860	385685	Low Income	8
+58860	385685	Other	1
+58860	385685	Very Low Income	4
+58860	205669	Low Income	4
+58860	205669	Very Low Income	4
+58860	205677	Extremely Low Income	1
+58860	205677	Low Income	1
+58860	205677	Other	1
+58860	205677	Very Low Income	3
+58860	205680	Extremely Low Income	1
+58860	205680	Low Income	6
+58860	205680	Very Low Income	1
+58860	205675	Very Low Income	3
+58860	326267	Extremely Low Income	1
+58860	326267	Low Income	7
+58860	326267	Other	1
+58860	326267	Very Low Income	7
+58860	215386	Extremely Low Income	2
+58860	215386	Low Income	5
+58860	215386	Moderate Income	1
+58860	215386	Other	1
+58860	215386	Very Low Income	27
+58860	387109	Very Low Income	3
+58860	351984	Extremely Low Income	1
+58860	351984	Low Income	3
+58860	351984	Very Low Income	2
+58860	296012	Extremely Low Income	2
+58860	296012	Very Low Income	5
+58860	307575	Very Low Income	8
+58860	307569	Extremely Low Income	7
+58860	307569	Low Income	27
+58860	307569	Other	1
+58860	307569	Very Low Income	65
+58860	374980	Extremely Low Income	2
+58860	374980	Low Income	1
+58860	374980	Other	1
+58860	374980	Very Low Income	14
+58860	396472	Low Income	19
+58860	396472	Moderate Income	4
+58860	396472	Other	1
+58860	396472	Very Low Income	11
+58860	396451	Extremely Low Income	1
+58860	396451	Low Income	2
+58860	396434	Extremely Low Income	2
+58860	396434	Low Income	1
+58860	396434	Very Low Income	1
+58860	295940	Low Income	3
+58860	295903	Very Low Income	4
+58860	295910	Low Income	3
+58860	295910	Very Low Income	5
+58860	149202	Extremely Low Income	1
+58860	149202	Low Income	8
+58860	149202	Other	1
+58860	149202	Very Low Income	6
+58860	149203	Extremely Low Income	7
+58860	149203	Low Income	4
+58860	149203	Very Low Income	5
+58860	320854	Low Income	6
+58860	308351	Very Low Income	2
+58860	308360	Very Low Income	3
+58860	357208	Very Low Income	4
+58860	208142	Low Income	2
+58860	208142	Very Low Income	10
+58860	373966	Extremely Low Income	10
+58860	373966	Low Income	7
+58860	373966	Moderate Income	1
+58860	373966	Other	1
+58860	373966	Very Low Income	10
+58860	352618	Extremely Low Income	2
+58860	352618	Low Income	2
+58860	352618	Very Low Income	3
+58860	352634	Extremely Low Income	1
+58860	352634	Low Income	4
+58860	352634	Very Low Income	2
+58860	352156	Extremely Low Income	6
+58860	352156	Low Income	6
+58860	352156	Other	1
+58860	352156	Very Low Income	12
+58860	153764	Extremely Low Income	3
+58860	153764	Low Income	2
+58860	153764	Very Low Income	3
+58860	374118	Extremely Low Income	2
+58860	374118	Low Income	4
+58860	374118	Very Low Income	2
+58860	341053	Extremely Low Income	2
+58860	341053	Very Low Income	1
+58860	823290	Extremely Low Income	1
+58860	823290	Low Income	13
+58860	823290	Moderate Income	1
+58860	823290	Very Low Income	14
+58860	287584	Low Income	1
+58860	287584	Very Low Income	10
+58860	291510	Extremely Low Income	2
+58860	291510	Low Income	1
+58860	291510	Very Low Income	8
+58885	52766	Low Income	4
+58885	52766	Very Low Income	6
+58885	806532	Low Income	1
+58885	806532	Very Low Income	6
+58885	806341	Low Income	1
+58885	806341	Very Low Income	6
+58887	804767	Extremely Low Income	1
+58887	804767	Low Income	10
+58887	804767	Very Low Income	14
+58887	21360	Extremely Low Income	4
+58887	21360	Low Income	13
+58887	21360	Other	1
+58887	21360	Very Low Income	11
+59740	969539	Extremely Low Income	60
+59740	969539	Low Income	65
+59740	969539	Other	1
+54842	969555	Low Income	89
+54842	969555	Moderate Income	8
+54842	969555	Other	1
+54842	969555	Very Low Income	25
+58936	977400	Extremely Low Income	120
+58936	977400	Low Income	94
+58936	977400	Other	1
+51582	975396	Extremely Low Income	56
+51582	975396	Low Income	96
+51582	975396	Moderate Income	69
+51582	975396	Other	1
+51582	975396	Very Low Income	55
+58966	991185	Extremely Low Income	167
+58966	991185	Other	1
+58965	969652	Extremely Low Income	82
+58965	969652	Low Income	52
+58965	969652	Other	1
+58972	120972	Extremely Low Income	230
+58972	120972	Low Income	14
+58972	120972	Other	1
+58972	120972	Very Low Income	38
+49445	40063	Very Low Income	18
+49445	40079	Moderate Income	24
+49445	40079	Other	1
+49445	40088	Very Low Income	24
+49445	40069	Other	1
+49445	40069	Very Low Income	24
+59031	355781	Extremely Low Income	1
+59031	355781	Low Income	2
+59031	355781	Very Low Income	7
+59031	131213	Extremely Low Income	2
+59031	131213	Low Income	1
+59031	131213	Very Low Income	3
+59031	208772	Extremely Low Income	2
+59031	208772	Other	1
+59031	208772	Very Low Income	8
+59031	208777	Low Income	7
+59031	208777	Very Low Income	1
+59031	208771	Extremely Low Income	1
+59031	208771	Very Low Income	2
+59031	383808	Low Income	2
+59031	383808	Very Low Income	6
+59031	388137	Low Income	1
+59031	388137	Very Low Income	7
+59031	383810	Low Income	3
+59031	383810	Very Low Income	7
+54984	43339	Extremely Low Income	2
+54984	43339	Low Income	5
+54984	43339	Very Low Income	15
+48772	944105	Low Income	28
+48772	944105	Very Low Income	19
+48772	944106	Low Income	37
+48772	944106	Other	1
+48772	944106	Very Low Income	26
+48772	944107	Low Income	39
+48772	944107	Very Low Income	25
+58855	326592	Low Income	17
+58855	326587	Low Income	19
+58855	326587	Other	1
+58855	326588	Low Income	16
+58855	326588	Moderate Income	1
+59104	72098	Extremely Low Income	1
+59104	72098	Other	1
+59104	72098	Very Low Income	107
+59117	769124	Extremely Low Income	102
+59117	769124	Low Income	6
+59117	769124	Moderate Income	10
+59117	812600	Extremely Low Income	94
+59117	812600	Low Income	5
+59117	812600	Very Low Income	16
+59117	812599	Extremely Low Income	100
+59117	812599	Very Low Income	31
+48681	375410	Low Income	9
+48681	375409	Low Income	8
+48681	375409	Middle Income	2
+48681	375411	Low Income	9
+48681	340340	Low Income	6
+48681	340340	Middle Income	2
+58235	104376	Extremely Low Income	60
+58235	104376	Other	1
+45675	934659	Low Income	7
+45675	934659	Other	1
+45675	934659	Very Low Income	49
+48879	954108	Low Income	17
+48879	954108	Moderate Income	66
+48879	954108	Other	1
+50059	396441	Low Income	1
+50059	396441	Very Low Income	2
+50059	335793	Low Income	2
+50059	335793	Very Low Income	4
+50059	294143	Low Income	3
+50059	294143	Very Low Income	1
+50059	362522	Low Income	4
+50059	362522	Very Low Income	2
+50059	234927	Low Income	5
+50059	234927	Very Low Income	1
+50059	300735	Low Income	8
+50059	305076	Low Income	4
+50059	305076	Very Low Income	2
+52816	11115	Other	15
+51260	811859	Other	"1,093"
+52646	989356	Extremely Low Income	90
+52646	989356	Low Income	80
+52646	989356	Other	1
+55223	979051	Low Income	56
+55223	979051	Other	1
+51680	714354	Other	7
+59495	969140	Extremely Low Income	40
+59495	969140	Low Income	70
+59495	969140	Moderate Income	25
+59495	969140	Other	1
+52435	969128	Low Income	79
+52435	969128	Other	1
+52435	969128	Very Low Income	20
+48760	45408	Extremely Low Income	1
+48760	45408	Low Income	2
+48760	45408	Very Low Income	19
+50104	927022	Low Income	79
+50104	927022	Other	1
+50291	20889	Very Low Income	10
+50611	867829	Other	31
+50611	867829	Other	1
+49275	809817	Extremely Low Income	65
+49275	809817	Low Income	11
+49275	809817	Moderate Income	22
+49275	809817	Very Low Income	22
+49275	809816	Extremely Low Income	65
+49275	809816	Low Income	19
+49275	809816	Moderate Income	22
+49275	809816	Very Low Income	14
+49275	394700	Extremely Low Income	65
+49275	394700	Low Income	21
+49275	394700	Moderate Income	20
+49275	394700	Very Low Income	14
+52122	972598	Low Income	47
+52122	972598	Middle Income	27
+52122	972598	Moderate Income	18
+52122	972598	Other	96
+52122	972598	Other	1
+52122	972598	Very Low Income	6
+48688	62690	Low Income	2
+48688	814524	Low Income	2
+48688	814510	Low Income	2
+48688	814512	Low Income	2
+48688	814535	Low Income	2
+48688	814525	Low Income	4
+48688	814520	Low Income	2
+48688	814513	Low Income	2
+48688	814537	Low Income	2
+48688	814519	Low Income	2
+48688	954321	Low Income	2
+48688	954324	Low Income	2
+48688	954320	Low Income	2
+48688	814509	Low Income	2
+48688	814521	Low Income	2
+48688	814522	Low Income	2
+48688	814531	Low Income	2
+48688	814505	Low Income	2
+48688	814515	Low Income	4
+48688	814536	Low Income	2
+48688	814530	Low Income	2
+48688	814516	Low Income	4
+48688	814508	Low Income	2
+48688	814523	Low Income	2
+48688	954143	Low Income	2
+48688	814511	Low Income	2
+48688	814506	Low Income	2
+48688	814528	Low Income	2
+48688	814514	Low Income	2
+48688	814533	Low Income	2
+48688	814507	Low Income	2
+48688	814526	Low Income	4
+48688	814532	Low Income	4
+48688	814518	Low Income	2
+48688	814529	Low Income	2
+48688	814534	Low Income	2
+48688	52798	Low Income	2
+58302	65391	Extremely Low Income	2
+58302	65391	Other	1
+58302	65391	Very Low Income	6
+58324	809070	Other	174
+58325	348491	Other	189
+58325	348491	Other	1
+50895	691317	Other	23
+61405	976362	Extremely Low Income	16
+61405	976362	Low Income	49
+61405	976362	Middle Income	30
+61405	976362	Moderate Income	19
+61405	976362	Other	1
+61405	976362	Very Low Income	38
+50583	217149	Low Income	305
+50132	29016	Low Income	20
+50132	29016	Other	1
+48132	21283	Extremely Low Income	1
+48132	21283	Low Income	6
+48132	21283	Very Low Income	9
+48132	28239	Low Income	26
+48132	28239	Very Low Income	16
+48132	5653	Low Income	5
+48132	5653	Very Low Income	4
+51168	910338	Other	43
+48643	972670	Extremely Low Income	58
+48643	972670	Other	1
+50519	38153	Extremely Low Income	8
+50519	38153	Low Income	102
+50519	38153	Other	1
+50519	38153	Very Low Income	4
+52979	966154	Extremely Low Income	45
+52979	966154	Low Income	29
+52979	966154	Other	1
+58659	63861	Low Income	4
+58659	63861	Middle Income	3
+58659	63861	Very Low Income	1
+58659	63868	Low Income	7
+58659	63868	Middle Income	3
+58659	63868	Very Low Income	1
+58659	63863	Low Income	19
+58659	63863	Middle Income	7
+58659	63863	Other	1
+58659	63863	Very Low Income	6
+58659	63867	Low Income	9
+58659	63867	Very Low Income	1
+58659	58983	Low Income	2
+58659	58983	Middle Income	1
+58659	58983	Other	1
+58659	58983	Very Low Income	1
+58659	63895	Low Income	11
+58659	63895	Middle Income	5
+58659	63895	Other	1
+58659	63895	Very Low Income	3
+58659	95597	Low Income	15
+58659	95597	Middle Income	6
+58659	95597	Very Low Income	4
+50959	633908	Other	5
+52986	42862	Extremely Low Income	6
+52986	42862	Low Income	3
+52986	42862	Very Low Income	11
+52986	5738	Extremely Low Income	20
+52986	5738	Low Income	1
+52986	5738	Other	1
+52986	5738	Very Low Income	3
+52986	42869	Extremely Low Income	4
+52986	42869	Low Income	2
+52986	42869	Very Low Income	14
+61593	66536	Extremely Low Income	94
+61593	66536	Other	1
+61593	66536	Very Low Income	3
+51751	85563	Extremely Low Income	17
+51751	85563	Other	1
+51751	122026	Extremely Low Income	28
+51751	122026	Other	1
+54709	41422	Low Income	5
+54709	41422	Moderate Income	5
+54709	41422	Very Low Income	8
+54709	41416	Low Income	6
+54709	41416	Moderate Income	5
+54709	41416	Very Low Income	7
+54709	41418	Low Income	6
+54709	41418	Moderate Income	5
+54709	41418	Very Low Income	7
+54709	41907	Low Income	35
+54709	41907	Moderate Income	6
+54709	28144	Low Income	53
+54709	41420	Low Income	5
+54709	41420	Moderate Income	5
+54709	41420	Very Low Income	8
+54709	41904	Low Income	35
+54709	41904	Moderate Income	6
+50200	948174	Extremely Low Income	60
+61641	307960	Extremely Low Income	4
+61641	307960	Low Income	1
+61641	307960	Other	1
+61641	307960	Very Low Income	8
+61641	307963	Extremely Low Income	3
+61641	307963	Low Income	1
+61641	307963	Very Low Income	10
+61641	304940	Extremely Low Income	1
+61641	304940	Low Income	12
+61641	304940	Very Low Income	10
+61641	304943	Extremely Low Income	1
+61641	304943	Low Income	4
+61641	304943	Very Low Income	11
+61641	307953	Extremely Low Income	3
+61641	307953	Low Income	2
+61641	307953	Very Low Income	9
+61641	304938	Low Income	11
+61641	304938	Other	1
+61641	304938	Very Low Income	11
+61641	327778	Extremely Low Income	6
+61641	327778	Low Income	1
+61641	327778	Very Low Income	5
+61641	808468	Extremely Low Income	2
+61641	808468	Low Income	2
+61641	808468	Very Low Income	12
+61641	377775	Low Income	8
+61641	377775	Other	1
+61641	377775	Very Low Income	5
+61639	88676	Extremely Low Income	4
+61639	88676	Low Income	1
+61639	88676	Other	1
+61639	88676	Very Low Income	15
+61639	65200	Extremely Low Income	4
+61639	65200	Low Income	1
+61639	65200	Very Low Income	15
+61639	79796	Extremely Low Income	7
+61639	79796	Low Income	3
+61639	79796	Very Low Income	32
+61639	79749	Extremely Low Income	2
+61639	79749	Low Income	2
+61639	79749	Very Low Income	20
+51607	953385	Low Income	41
+51607	953385	Other	160
+61847	89826	Low Income	14
+61847	89826	Other	1
+61847	89826	Very Low Income	89
+61848	194840	Extremely Low Income	5
+61848	194840	Very Low Income	57
+61848	809784	Extremely Low Income	3
+61848	809784	Other	1
+61848	809784	Very Low Income	59
+61849	871701	Low Income	407
+61849	871701	Moderate Income	7
+61849	871701	Other	1
+61849	89017	Low Income	454
+61849	89017	Moderate Income	2
+51529	6632	Other	2
+52999	956204	Extremely Low Income	67
+52999	956204	Other	1
+61837	42786	Moderate Income	25
+61837	21861	Moderate Income	25
+61837	42889	Moderate Income	24
+61837	43012	Moderate Income	20
+61840	23596	Moderate Income	3
+61840	23600	Moderate Income	3
+61840	40420	Moderate Income	29
+61840	23579	Moderate Income	9
+61840	23593	Moderate Income	4
+61840	23595	Moderate Income	3
+61840	23597	Moderate Income	4
+47805	59207	Low Income	25
+47805	59207	Other	1
+47805	59207	Very Low Income	4
+47805	59179	Extremely Low Income	1
+47805	59179	Low Income	26
+47805	59179	Very Low Income	1
+47805	806404	Low Income	24
+47805	806404	Other	1
+47805	806404	Very Low Income	2
+47805	59205	Low Income	35
+47805	59205	Very Low Income	2
+48640	945034	Low Income	13
+48640	945034	Very Low Income	30
+51425	904874	Other	20
+61877	5169	Extremely Low Income	3
+61877	33920	Extremely Low Income	7
+61877	33920	Low Income	1
+61903	973245	Low Income	16
+61903	973245	Other	1
+61903	973245	Very Low Income	8
+62039	934090	Low Income	79
+62039	934090	Other	1
+58548	348484	Other	90
+62163	107668	Low Income	6
+51463	11396	Other	15
+55263	966134	Extremely Low Income	8
+55263	966134	Low Income	38
+55263	966134	Other	1
+55263	966134	Very Low Income	20
+57772	967357	Extremely Low Income	80
+57772	967356	Extremely Low Income	80
+57772	967356	Other	1
+45677	935209	Low Income	60
+45677	935209	Other	1
+45677	935209	Very Low Income	11
+62057	349463	Moderate Income	5
+62057	230287	Moderate Income	7
+62057	217176	Moderate Income	6
+62108	981578	Other	83
+51047	212708	Other	96
+60041	5610	Extremely Low Income	3
+60041	5610	Moderate Income	5
+49481	946226	Low Income	24
+49481	946226	Other	1
+49481	946226	Very Low Income	38
+60249	975072	Extremely Low Income	8
+60249	975072	Low Income	40
+60249	975072	Very Low Income	32
+60249	971150	Low Income	59
+60249	971150	Other	1
+60249	971150	Very Low Income	60
+60248	242056	Extremely Low Income	6
+60248	242056	Low Income	4
+60248	242056	Very Low Income	10
+60361	25115	Extremely Low Income	2
+60361	25115	Low Income	16
+60361	25115	Very Low Income	2
+55249	972215	Low Income	82
+55249	972215	Other	1
+55249	972215	Very Low Income	50
+55249	989851	Extremely Low Income	45
+55249	989851	Low Income	136
+49276	944544	Low Income	12
+51056	211091	Other	5
+51056	216349	Other	4
+50580	28059	Low Income	21
+60327	971011	Extremely Low Income	71
+60327	971011	Low Income	46
+60327	971011	Other	1
+60762	723979	Low Income	177
+60762	723979	Other	1
+50818	31409	Very Low Income	50
+47948	49241	Low Income	10
+51382	634319	Other	68
+60779	974205	Extremely Low Income	27
+60779	974205	Low Income	159
+60779	974205	Other	1
+60779	974205	Very Low Income	80
+50353	844746	Low Income	8
+50353	120621	Low Income	8
+50353	120575	Low Income	8
+50353	120629	Low Income	8
+50353	107804	Low Income	36
+50795	6554	Other	8
+50795	6555	Other	8
+50795	6553	Other	8
+60996	807003	Very Low Income	160
+60996	115807	Other	1
+60996	115807	Very Low Income	159
+48677	58933	Low Income	8
+48677	58929	Low Income	12
+48677	806394	Low Income	8
+48677	806497	Low Income	8
+48889	809794	Low Income	158
+48889	809794	Very Low Income	160
+48889	342209	Low Income	183
+48889	342209	Very Low Income	135
+48889	809804	Low Income	177
+48889	809804	Very Low Income	135
+48889	809803	Low Income	183
+48889	809803	Very Low Income	131
+48889	809793	Low Income	183
+48889	809793	Very Low Income	131
+61186	979998	Extremely Low Income	88
+61186	979998	Other	1
+48735	39419	Moderate Income	12
+48735	39419	Other	1
+48735	39419	Very Low Income	6
+48735	20752	Moderate Income	7
+48735	20752	Very Low Income	10
+48735	1327	Moderate Income	5
+48735	1327	Very Low Income	4
+48735	39110	Moderate Income	8
+49026	85641	Low Income	18
+49026	85641	Moderate Income	3
+49026	85641	Other	1
+49026	85641	Very Low Income	3
+59946	37876	Very Low Income	24
+59946	968807	Very Low Income	1
+59946	968803	Extremely Low Income	23
+59946	968806	Very Low Income	24
+59946	968805	Very Low Income	1
+59946	968804	Very Low Income	24
+59946	805950	Very Low Income	24
+59946	37892	Extremely Low Income	25
+59946	37884	Very Low Income	24
+59946	805949	Very Low Income	1
+59946	37886	Extremely Low Income	25
+59946	28109	Extremely Low Income	108
+59946	37885	Very Low Income	25
+59946	37907	Extremely Low Income	50
+59946	40789	Extremely Low Income	24
+59946	803906	Extremely Low Income	97
+59946	943790	Extremely Low Income	25
+59946	40784	Low Income	24
+60000	6626	Low Income	45
+60027	65043	Low Income	5
+60027	65043	Other	1
+60027	65043	Very Low Income	4
+60027	119640	Extremely Low Income	1
+60027	119640	Low Income	10
+60027	119640	Very Low Income	10
+60027	64956	Low Income	4
+60027	64956	Very Low Income	13
+60027	119648	Extremely Low Income	3
+60027	119648	Low Income	7
+60027	119648	Very Low Income	15
+60049	43662	Extremely Low Income	7
+60049	43662	Low Income	9
+60049	43662	Other	1
+60049	43662	Very Low Income	9
+60049	806010	Extremely Low Income	2
+60049	806010	Low Income	10
+60049	806010	Moderate Income	5
+60049	806010	Very Low Income	14
+60049	806009	Extremely Low Income	6
+60049	806009	Low Income	8
+60049	806009	Moderate Income	1
+60049	806009	Very Low Income	11
+47841	59988	Low Income	38
+47841	59988	Other	1
+48886	66882	Low Income	5
+48886	66882	Middle Income	1
+48886	66882	Very Low Income	5
+48886	117122	Low Income	6
+48886	117122	Very Low Income	4
+48886	117124	Low Income	6
+48886	117124	Very Low Income	4
+48886	66855	Low Income	9
+48886	66855	Other	1
+48886	66855	Very Low Income	17
+48886	51243	Extremely Low Income	2
+48886	51243	Low Income	16
+48886	51243	Other	1
+48886	51243	Very Low Income	30
+48886	117114	Low Income	10
+48886	117114	Very Low Income	1
+48886	67110	Low Income	3
+48886	67110	Other	1
+48886	67110	Very Low Income	10
+44602	927742	Extremely Low Income	53
+44602	927742	Other	1
+48660	65833	Low Income	11
+48660	65833	Other	1
+48660	65833	Very Low Income	12
+48660	65832	Low Income	12
+48660	65832	Very Low Income	12
+48660	119759	Low Income	2
+48660	119759	Very Low Income	6
+48660	119798	Low Income	19
+48660	119798	Very Low Income	15
+48660	74399	Other	1
+48660	74399	Very Low Income	8
+48660	48245	Low Income	8
+48660	48245	Very Low Income	7
+60431	839362	Low Income	1
+60431	839362	Other	1
+60431	839362	Very Low Income	32
+60431	125692	Extremely Low Income	12
+60431	125692	Very Low Income	16
+60431	809908	Extremely Low Income	31
+60431	809908	Very Low Income	4
+60431	45441	Extremely Low Income	19
+60431	45441	Low Income	10
+60431	45441	Very Low Income	13
+60431	397332	Low Income	2
+60431	88599	Extremely Low Income	19
+60431	88599	Low Income	2
+60431	88599	Other	1
+60431	88599	Very Low Income	39
+60431	91424	Extremely Low Income	22
+60431	91424	Other	1
+60431	91424	Very Low Income	23
+60431	221264	Extremely Low Income	15
+60431	221264	Very Low Income	16
+60431	120928	Extremely Low Income	21
+60431	120928	Low Income	3
+60431	120928	Other	1
+60431	120928	Very Low Income	20
+60427	805832	Extremely Low Income	28
+60427	805832	Low Income	5
+60427	805832	Very Low Income	2
+60427	805835	Extremely Low Income	20
+60427	805835	Low Income	1
+60427	805835	Very Low Income	3
+60427	805084	Extremely Low Income	15
+60427	805084	Low Income	3
+60427	805084	Very Low Income	5
+60427	25206	Extremely Low Income	14
+60427	25206	Low Income	2
+60427	25206	Very Low Income	1
+60427	37471	Extremely Low Income	21
+60427	37471	Low Income	3
+60427	37471	Very Low Income	3
+60434	694857	Extremely Low Income	48
+60434	694857	Low Income	4
+60434	694857	Very Low Income	32
+60434	405018	Extremely Low Income	50
+60434	405018	Low Income	1
+60434	405018	Very Low Income	9
+60434	404642	Extremely Low Income	50
+60434	404642	Low Income	10
+60434	694855	Extremely Low Income	50
+60434	694855	Low Income	7
+60434	694855	Moderate Income	2
+60434	694855	Very Low Income	1
+60434	405890	Extremely Low Income	50
+60434	405890	Low Income	2
+60434	405890	Very Low Income	8
+60434	948405	Extremely Low Income	50
+60434	948405	Low Income	6
+60434	948405	Moderate Income	4
+60434	405889	Extremely Low Income	50
+60434	405889	Low Income	2
+60434	405889	Very Low Income	8
+60505	975132	Extremely Low Income	8
+60505	975132	Low Income	24
+60505	975132	Other	1
+60505	975132	Very Low Income	8
+51380	482642	Other	9
+50131	56824	Moderate Income	12
+50131	56832	Low Income	8
+50131	56832	Very Low Income	3
+50131	56818	Moderate Income	12
+50131	81951	Low Income	19
+50131	81951	Very Low Income	7
+50131	97336	Low Income	3
+50131	97336	Very Low Income	2
+50131	107220	Low Income	16
+50131	107220	Other	1
+50131	107220	Very Low Income	4
+49533	211017	Low Income	243
+49533	211017	Other	1
+49533	211017	Very Low Income	143
+49533	211018	Low Income	240
+49533	211018	Other	1
+49533	211018	Very Low Income	146
+49533	331799	Low Income	235
+49533	331799	Other	1
+49533	331799	Very Low Income	151
+49533	340170	Low Income	209
+49533	340170	Other	1
+49533	340170	Very Low Income	177
+49533	807809	Low Income	212
+49533	807809	Other	1
+49533	807809	Very Low Income	174
+49533	808686	Low Income	234
+49533	808686	Other	1
+49533	808686	Very Low Income	152
+49533	808883	Low Income	241
+49533	808883	Other	1
+49533	808883	Very Low Income	145
+50186	64613	Low Income	7
+50186	64613	Moderate Income	1
+50186	64613	Very Low Income	8
+50186	64614	Extremely Low Income	2
+50186	64614	Low Income	11
+50186	64614	Very Low Income	3
+50186	806534	Extremely Low Income	1
+50186	806534	Low Income	8
+50186	806534	Other	1
+50186	806534	Very Low Income	6
+48679	63053	Low Income	16
+48679	63053	Middle Income	4
+48679	63053	Other	1
+48679	63052	Low Income	17
+48679	63052	Middle Income	3
+48679	63059	Low Income	7
+48679	63059	Middle Income	3
+48679	63059	Other	1
+48679	63048	Low Income	18
+48679	63048	Middle Income	2
+48679	63048	Other	1
+48679	63055	Low Income	6
+48679	63055	Middle Income	4
+48679	63057	Low Income	10
+48679	63057	Other	1
+48679	63054	Low Income	8
+48679	63054	Middle Income	12
+50206	287193	Extremely Low Income	4
+50206	287193	Low Income	24
+50206	287193	Other	1
+50206	330371	Extremely Low Income	1
+50206	330371	Low Income	6
+50206	351727	Extremely Low Income	12
+50206	351727	Low Income	24
+50206	351727	Other	1
+50206	330372	Extremely Low Income	1
+50206	330372	Low Income	6
+50206	330373	Low Income	7
+50206	358230	Low Income	3
+50206	322130	Extremely Low Income	3
+50206	322130	Low Income	13
+50206	383480	Extremely Low Income	13
+50206	383480	Low Income	52
+50206	383480	Other	1
+50206	383478	Extremely Low Income	9
+50206	383478	Low Income	32
+50206	383478	Other	1
+50157	927198	Middle Income	18
+50157	927198	Moderate Income	5
+50157	927198	Other	1
+61290	981208	Extremely Low Income	78
+61290	981208	Low Income	50
+61290	981208	Other	1
+61357	976032	Extremely Low Income	35
+61357	976032	Low Income	87
+61357	976032	Other	1
+61357	976032	Very Low Income	52
+51065	691364	Other	6
+49338	944796	Low Income	127
+52737	138899	Low Income	3
+52737	138899	Moderate Income	1
+52737	138899	Very Low Income	4
+52737	211091	Low Income	4
+52737	211091	Very Low Income	1
+52737	371080	Low Income	2
+52737	371080	Very Low Income	6
+52737	810140	Very Low Income	6
+52737	216349	Low Income	1
+52737	216349	Very Low Income	3
+52737	365968	Low Income	1
+52737	365968	Very Low Income	3
+52737	128902	Low Income	4
+52737	128902	Very Low Income	3
+52737	208752	Low Income	5
+52737	208752	Very Low Income	2
+52737	208755	Low Income	4
+52737	208755	Very Low Income	3
+52737	130217	Low Income	1
+52737	130217	Very Low Income	5
+52737	130199	Very Low Income	6
+52737	130195	Low Income	1
+52737	130195	Other	1
+52737	130195	Very Low Income	4
+52737	132750	Low Income	4
+52737	132750	Very Low Income	4
+53157	301045	Very Low Income	3
+53157	339420	Very Low Income	2
+53157	398769	Very Low Income	2
+53157	371205	Extremely Low Income	1
+53157	371205	Very Low Income	2
+53157	371215	Very Low Income	2
+53157	398765	Very Low Income	2
+53157	371214	Very Low Income	2
+53157	398768	Very Low Income	2
+53157	288549	Extremely Low Income	1
+53157	288549	Very Low Income	6
+53157	385461	Very Low Income	2
+53157	344509	Low Income	1
+53157	344509	Very Low Income	1
+53157	344503	Very Low Income	2
+53157	354267	Very Low Income	3
+53157	208318	Low Income	2
+53157	208318	Very Low Income	7
+53157	338108	Very Low Income	4
+53157	338045	Very Low Income	3
+53157	338076	Extremely Low Income	1
+53157	338076	Very Low Income	3
+53157	338096	Very Low Income	4
+53157	184969	Very Low Income	2
+53157	184933	Very Low Income	2
+53157	185006	Very Low Income	2
+53157	337330	Extremely Low Income	1
+53157	337330	Very Low Income	4
+53157	337322	Very Low Income	8
+53157	337374	Very Low Income	2
+53157	207557	Extremely Low Income	2
+53157	207557	Very Low Income	1
+53157	396150	Very Low Income	3
+53157	327205	Very Low Income	1
+53157	327210	Very Low Income	1
+53157	353204	Very Low Income	2
+53157	353157	Very Low Income	3
+53157	219547	Very Low Income	2
+53157	321436	Low Income	1
+53157	321436	Very Low Income	3
+53157	371239	Extremely Low Income	1
+53157	371239	Very Low Income	1
+53157	371237	Very Low Income	2
+53157	371241	Very Low Income	2
+53157	371244	Very Low Income	2
+53157	371245	Very Low Income	2
+53157	376867	Extremely Low Income	1
+53157	376867	Very Low Income	3
+53157	226072	Very Low Income	3
+53157	350990	Very Low Income	4
+53157	226070	Very Low Income	3
+53157	222346	Very Low Income	4
+53157	222365	Extremely Low Income	2
+53157	222365	Very Low Income	3
+53157	313046	Extremely Low Income	1
+53157	313046	Very Low Income	3
+53157	313062	Very Low Income	2
+53157	313060	Very Low Income	2
+53157	313054	Very Low Income	2
+53157	211277	Very Low Income	4
+53157	211373	Extremely Low Income	1
+53157	211373	Very Low Income	1
+53157	211313	Very Low Income	3
+53157	211318	Very Low Income	3
+53157	225768	Very Low Income	4
+53157	225767	Very Low Income	4
+53157	215680	Very Low Income	4
+53157	289110	Very Low Income	2
+53157	369264	Very Low Income	6
+53157	374219	Low Income	1
+53157	374219	Very Low Income	4
+53157	288052	Very Low Income	8
+53157	309651	Extremely Low Income	5
+53157	309651	Very Low Income	1
+53157	183665	Very Low Income	6
+53157	229994	Very Low Income	4
+53157	349735	Very Low Income	4
+53157	349622	Very Low Income	8
+53157	299929	Very Low Income	3
+53157	299935	Extremely Low Income	1
+53157	299935	Very Low Income	2
+53157	328488	Very Low Income	4
+53157	328494	Very Low Income	6
+53157	209451	Very Low Income	2
+53157	351107	Extremely Low Income	1
+53157	351107	Very Low Income	3
+53157	350995	Very Low Income	2
+53157	183061	Extremely Low Income	3
+53157	183061	Very Low Income	1
+53157	338415	Extremely Low Income	1
+53157	338415	Very Low Income	1
+53157	310573	Extremely Low Income	1
+53157	310573	Very Low Income	3
+53157	307551	Very Low Income	2
+53157	342349	Extremely Low Income	1
+53157	342349	Very Low Income	4
+52021	110217	Other	1
+52021	110217	Very Low Income	48
+44350	928130	Extremely Low Income	12
+44350	928130	Low Income	18
+44350	928130	Other	1
+44350	928130	Very Low Income	30
+48003	90415	Low Income	119
+48003	90415	Other	1
+44258	928028	Low Income	3
+44258	928028	Very Low Income	2
+44258	928029	Low Income	5
+44258	928029	Very Low Income	3
+44258	969720	Low Income	6
+44258	969720	Very Low Income	4
+44258	927117	Low Income	4
+44258	927117	Very Low Income	4
+45301	941593	Low Income	70
+45301	941593	Other	1
+45301	941593	Very Low Income	18
+49172	948177	Extremely Low Income	86
+63808	37054	Extremely Low Income	14
+63808	37054	Low Income	29
+63808	37054	Other	1
+63808	37054	Very Low Income	76
+65374	27322	Low Income	98
+65374	27322	Moderate Income	34
+65374	27322	Other	1
+45578	25214	Middle Income	47
+45578	25214	Other	1
+45578	25214	Very Low Income	9
+45223		Low Income	43
+45223		Other	1
+45223		Very Low Income	7
+45223		Low Income	68
+45223		Very Low Income	2
+48928	806389	Moderate Income	314
+48928	806390	Moderate Income	314
+48928	109464	Moderate Income	312
+48928	806181	Moderate Income	312
+48928	806388	Moderate Income	313
+48928	97290	Low Income	26
+48928	97290	Moderate Income	287
+63913	303335	Low Income	28
+63913	303335	Middle Income	46
+63913	303335	Other	1
+63913	303335	Very Low Income	19
+60034	117124	Extremely Low Income	1
+60034	117124	Low Income	2
+60034	117124	Very Low Income	7
+60034	66882	Extremely Low Income	5
+60034	66882	Low Income	1
+60034	66882	Very Low Income	5
+60034	67110	Extremely Low Income	2
+60034	67110	Low Income	4
+60034	67110	Very Low Income	8
+60034	66855	Extremely Low Income	4
+60034	66855	Low Income	8
+60034	66855	Other	1
+60034	66855	Very Low Income	13
+60034	117122	Extremely Low Income	1
+60034	117122	Low Income	2
+60034	117122	Very Low Income	8
+60034	117114	Extremely Low Income	1
+60034	117114	Low Income	5
+60034	117114	Very Low Income	5
+60034	51243	Extremely Low Income	13
+60034	51243	Low Income	11
+60034	51243	Other	1
+60034	51243	Very Low Income	24
+51317	394690	Other	10
+65213	977584	Extremely Low Income	74
+65213	977584	Low Income	217
+65213	977584	Other	1
+65213	977584	Very Low Income	74
+51590	38023	Extremely Low Income	1
+51590	38023	Low Income	1
+51590	38023	Very Low Income	16
+51143	5578	Low Income	8
+51143	5578	Very Low Income	10
+51143	5580	Low Income	10
+51143	5580	Very Low Income	12
+51143	5579	Extremely Low Income	1
+51143	5579	Low Income	7
+51143	5579	Very Low Income	10
+48012	939257	Other	1
+48012	939257	Very Low Income	85
+51719	878727	Extremely Low Income	9
+51719	878727	Low Income	49
+51719	878727	Other	1
+51719	878727	Very Low Income	26
+58015	966812	Extremely Low Income	37
+58015	966812	Low Income	88
+58015	966812	Other	1
+49501	79187	Low Income	8
+65275	91400	Low Income	4
+65275	91400	Other	1
+65275	91400	Very Low Income	43
+65357	94338	Low Income	7
+65357	94338	Very Low Income	17
+65357	60441	Low Income	23
+65357	60441	Moderate Income	5
+65357	60441	Very Low Income	16
+65357	74905	Low Income	12
+65357	74905	Other	1
+65357	74905	Very Low Income	14
+65357	60444	Low Income	21
+65357	60444	Moderate Income	4
+65357	60444	Very Low Income	15
+65357	60447	Low Income	21
+65357	60447	Moderate Income	2
+65357	60447	Other	1
+65357	60447	Very Low Income	11
+65357	60442	Low Income	32
+65357	60442	Moderate Income	6
+65357	60442	Other	1
+65357	60442	Very Low Income	23
+65357	60446	Extremely Low Income	2
+65357	60446	Low Income	18
+65357	60446	Moderate Income	4
+65357	60446	Other	1
+65357	60446	Very Low Income	15
+65357	97492	Low Income	18
+65357	97492	Very Low Income	17
+65357	97493	Low Income	8
+65357	97493	Very Low Income	18
+65357	59142	Extremely Low Income	3
+65357	59142	Low Income	24
+65357	59142	Other	1
+65357	59142	Very Low Income	17
+65357	59140	Low Income	23
+65357	59140	Moderate Income	2
+65357	59140	Very Low Income	15
+65357	115684	Low Income	17
+65357	115684	Very Low Income	36
+65357	115683	Low Income	13
+65357	115683	Other	1
+65357	115683	Very Low Income	12
+65360	30579	Low Income	12
+65360	30579	Very Low Income	6
+53011	379344	Low Income	6
+53011	219116	Low Income	6
+53011	379523	Low Income	19
+53011	219111	Low Income	18
+53461	967338	Low Income	76
+53461	967338	Other	1
+53461	967338	Very Low Income	24
+61701	24188	Extremely Low Income	45
+61701	24188	Low Income	1
+61701	24188	Very Low Income	4
+58992	88707	Extremely Low Income	1
+58992	88707	Very Low Income	12
+48940	42095	Extremely Low Income	1
+48940	42095	Low Income	2
+48940	42095	Very Low Income	12
+50568		Moderate Income	1
+50902	908868	Other	78
+48650	11915	Extremely Low Income	18
+48909	947309	Low Income	93
+48909	947309	Other	1
+48909	947309	Very Low Income	7
+50602	231421	Low Income	6
+50602	231421	Other	1
+50602	231421	Very Low Income	54
+50602	808434	Other	1
+50602	808434	Very Low Income	75
+50602	331239	Low Income	23
+50602	331239	Other	1
+50602	331239	Very Low Income	75
+49418	1101	Extremely Low Income	15
+49418	1101	Very Low Income	34
+50938	51561	Very Low Income	23
+50196	59948	Low Income	23
+50196	59948	Other	1
+50196	49501	Low Income	42
+50196	49501	Other	1
+50196	806409	Low Income	25
+50196	87351	Low Income	62
+50196	87351	Other	1
+50196	806410	Low Income	25
+50868	810149	Other	223
+44218	987329	Low Income	101
+44218	987329	Middle Income	200
+44218	987329	Other	2
+44218	987329	Very Low Income	101
+62208	45205	Low Income	5
+62208	45204	Low Income	6
+62204	333380	Low Income	4
+62204	333380	Very Low Income	2
+62210	810951	Extremely Low Income	4
+62210	810951	Very Low Income	68
+62210	810950	Extremely Low Income	56
+62210	810950	Very Low Income	16
+62210	564090	Extremely Low Income	5
+62210	564090	Other	1
+62210	564090	Very Low Income	66
+62203	973532	Extremely Low Income	43
+62203	973532	Low Income	28
+62203	973532	Other	1
+62209	52029	Extremely Low Income	247
+62209	52029	Very Low Income	45
+63252	6478	Extremely Low Income	4
+63252	6478	Very Low Income	2
+49544	10734	Extremely Low Income	33
+63036	983224	Extremely Low Income	53
+63036	983224	Low Income	14
+63036	983224	Other	1
+63036	983224	Very Low Income	8
+64796	32960	Low Income	10
+64796	32960	Very Low Income	281
+64885	983133	Extremely Low Income	67
+64885	983133	Low Income	320
+64885	983133	Other	2
+64885	983133	Very Low Income	68
+48885	804640	Extremely Low Income	1
+48885	804640	Low Income	1
+48885	804640	Very Low Income	116
+48885	805394	Very Low Income	115
+48885	804823	Very Low Income	118
+48885	1182	Very Low Income	118
+48885	804648	Low Income	3
+48885	804648	Very Low Income	115
+48885	805280	Low Income	2
+48885	805280	Very Low Income	116
+48885	804639	Extremely Low Income	1
+48885	804639	Low Income	4
+48885	804639	Very Low Income	113
+48885	804824	Low Income	1
+48885	804824	Very Low Income	117
+48885	805281	Very Low Income	114
+48885	804717	Very Low Income	115
+48885	805279	Very Low Income	116
+48885	804647	Low Income	1
+48885	804647	Very Low Income	117
+48885	804638	Very Low Income	116
+48885	1946	Very Low Income	114
+48906	948178	Extremely Low Income	182
+48906	948178	Low Income	110
+48906	948178	Other	1
+63968	989032	Extremely Low Income	9
+63968	989032	Low Income	13
+63968	989032	Moderate Income	10
+63968	989032	Other	1
+63968	989032	Very Low Income	4
+64252	984242	Extremely Low Income	48
+64252	984242	Low Income	138
+64252	984242	Other	1
+64252	984242	Very Low Income	48
+64399	806980	Extremely Low Income	11
+64399	806980	Low Income	69
+64399	806980	Other	1
+64399	806980	Very Low Income	76
+64399	113491	Extremely Low Income	10
+64399	113491	Low Income	70
+64399	113491	Other	1
+64399	113491	Very Low Income	76
+50495	949059	Extremely Low Income	8
+50495	949059	Low Income	44
+50495	949059	Other	1
+58891	19568	Low Income	14
+58891	19568	Very Low Income	16
+58891	19793	Low Income	1
+58891	19793	Very Low Income	4
+58891	19843	Extremely Low Income	1
+58891	19843	Low Income	10
+58891	19843	Very Low Income	3
+58891	19469	Low Income	8
+58891	19469	Very Low Income	10
+58891	19381	Low Income	1
+58891	19381	Very Low Income	7
+58891	19787	Low Income	1
+58891	19787	Very Low Income	9
+58891	1225	Low Income	2
+58891	1225	Very Low Income	1
+58891	19410	Low Income	2
+58891	19410	Very Low Income	6
+58891	19231	Extremely Low Income	4
+58891	19231	Low Income	3
+58891	19231	Very Low Income	8
+58891	1311	Very Low Income	3
+58891	1273	Low Income	3
+58891	1273	Very Low Income	6
+58891	19198	Extremely Low Income	1
+58891	19198	Low Income	9
+58891	19198	Very Low Income	14
+58891	19200	Extremely Low Income	1
+58891	19200	Low Income	9
+58891	19200	Other	2
+58891	19200	Very Low Income	12
+58891	19221	Low Income	4
+58891	19221	Very Low Income	6
+58891	19572	Low Income	3
+58891	19572	Very Low Income	5
+58891	19235	Low Income	7
+58891	19235	Very Low Income	7
+58891	19638	Low Income	2
+58891	19638	Very Low Income	1
+58891	19299	Low Income	28
+58891	19299	Other	1
+58891	19299	Very Low Income	31
+58891	19466	Low Income	8
+58891	19466	Very Low Income	6
+58891	19576	Low Income	10
+58891	19576	Other	1
+58891	19576	Very Low Income	13
+58891	1323	Low Income	2
+58891	1323	Very Low Income	7
+58891	19578	Low Income	13
+58891	19578	Very Low Income	11
+58891	19208	Low Income	7
+58891	19208	Very Low Income	3
+58891	1222	Low Income	1
+58891	1222	Other	1
+58891	1222	Very Low Income	2
+58891	1280	Low Income	2
+58891	1280	Other	1
+58891	1280	Very Low Income	8
+58891	19808	Very Low Income	3
+58891	19799	Very Low Income	4
+58891	19698	Low Income	2
+58891	19698	Very Low Income	7
+58891	19573	Low Income	3
+58891	19573	Very Low Income	15
+58891	19024	Low Income	1
+58891	19024	Very Low Income	4
+58891	19233	Low Income	7
+58891	19233	Very Low Income	8
+58891	1220	Low Income	10
+58891	1220	Other	1
+58891	1220	Very Low Income	2
+58891	24002	Low Income	1
+58891	24002	Very Low Income	5
+58891	24685	Low Income	2
+58891	24685	Very Low Income	6
+58891	20495	Low Income	4
+58891	20430	Low Income	5
+58891	20430	Other	1
+58891	20430	Very Low Income	12
+58891	20493	Low Income	8
+58891	20397	Very Low Income	4
+58891	20135	Low Income	3
+58891	20135	Very Low Income	10
+58891	24098	Extremely Low Income	1
+58891	24098	Low Income	2
+58891	24098	Very Low Income	13
+62241	965108	Extremely Low Income	6
+62241	965108	Low Income	5
+62241	965108	Moderate Income	9
+62241	965108	Other	1
+62241	965108	Very Low Income	3
+62241	976490	Extremely Low Income	3
+62241	976490	Low Income	2
+62241	976490	Moderate Income	8
+62241	976490	Very Low Income	1
+63289	976532	Extremely Low Income	199
+63289	976532	Other	1
+49607	954885	Extremely Low Income	8
+49607	954885	Low Income	23
+49607	954885	Other	1
+49607	954885	Very Low Income	28
+50223	3962	Extremely Low Income	1
+50223	3962	Low Income	10
+50223	3962	Moderate Income	1
+50223	3962	Very Low Income	4
+50223	7479	Low Income	18
+50223	7479	Very Low Income	7
+50223	362423	Extremely Low Income	1
+50223	362423	Low Income	11
+50223	362423	Very Low Income	4
+50223	3611	Low Income	18
+50223	3611	Very Low Income	2
+50223	21286	Extremely Low Income	1
+50223	21286	Low Income	7
+50223	21286	Other	1
+50223	21286	Very Low Income	7
+47858	65623	Low Income	26
+47858	65623	Moderate Income	1
+63760	977463	Low Income	29
+63760	977463	Other	1
+63760	977463	Very Low Income	9
+63941	5713	Extremely Low Income	160
+63941	5713	Low Income	3
+63941	5713	Moderate Income	6
+63941	5713	Other	1
+63941	5713	Very Low Income	13
+63345	979242	Extremely Low Income	15
+63345	979242	Low Income	113
+63345	979242	Other	1
+63345	979242	Very Low Income	15
+64756	89504	Low Income	3
+64756	89504	Very Low Income	4
+64756	89505	Low Income	1
+64756	89505	Other	1
+64756	89505	Very Low Income	5
+64756	89506	Low Income	4
+64756	89506	Very Low Income	3
+62962	975399	Extremely Low Income	19
+62962	975399	Low Income	112
+62962	975399	Moderate Income	19
+62962	975399	Other	1
+62962	975399	Very Low Income	38
+49358	25199	Low Income	18
+49358	25198	Low Income	17
+49358	25198	Very Low Income	7
+49358	25197	Very Low Income	22
+47862	112023	Extremely Low Income	1
+47862	112023	Low Income	13
+47862	112023	Other	1
+47862	112023	Very Low Income	22
+44288	946784	Low Income	4
+44288	947359	Low Income	3
+44288	947360	Low Income	4
+44288	947361	Low Income	4
+63172	974500	Extremely Low Income	8
+63172	974500	Low Income	23
+63172	974500	Moderate Income	50
+63172	974500	Other	1
+63172	974500	Very Low Income	21
+63367	982777	Extremely Low Income	71
+63367	982777	Low Income	45
+63367	982777	Other	1
+63014	975336	Low Income	18
+63014	975336	Other	1
+63014	975336	Very Low Income	12
+63122	974443	Extremely Low Income	121
+63122	974443	Other	1
+63151	988458	Extremely Low Income	36
+63151	988458	Low Income	110
+63151	988458	Other	1
+63151	988458	Very Low Income	36
+44265	957390	Moderate Income	4
+44265	957420	Moderate Income	4
+44265	957389	Moderate Income	4
+44265	957388	Moderate Income	4
+44265	957383	Moderate Income	4
+44265	957382	Moderate Income	4
+44265	957381	Moderate Income	4
+44265	957384	Moderate Income	4
+44265	957387	Moderate Income	4
+48638	33876	Low Income	56
+48638	33874	Extremely Low Income	39
+48638	33874	Low Income	14
+49171	806307	Low Income	62
+49171	806307	Other	1
+49171	806372	Low Income	64
+49171	64618	Low Income	62
+49171	113704	Low Income	62
+49171	113704	Other	1
+48891	88316	Low Income	16
+48891	88316	Very Low Income	11
+47850	63567	Low Income	5
+47850	63567	Other	1
+47850	63567	Very Low Income	5
+47850	63568	Low Income	8
+47850	63568	Moderate Income	2
+63775	957258	Extremely Low Income	26
+63775	957258	Low Income	75
+63775	957258	Other	1
+63775	957258	Very Low Income	25
+63763	984726	Extremely Low Income	90
+63763	984726	Low Income	244
+63763	984726	Moderate Income	22
+63763	984726	Other	1
+63763	984726	Very Low Income	89
+58671	976883	Extremely Low Income	54
+58671	976883	Low Income	27
+58671	976883	Very Low Income	8
+52597	955365	Extremely Low Income	48
+50675	227371	Other	157
+48877	951076	Middle Income	1
+48877	951065	Middle Income	1
+48877	951391	Low Income	1
+48877	951041	Low Income	1
+48877	951028	Middle Income	1
+48877	951071	Middle Income	1
+48877	951069	Middle Income	1
+48877	951054	Middle Income	1
+48877	951067	Middle Income	1
+48877	951079	Low Income	1
+48877	951063	Middle Income	1
+48877	951323	Low Income	1
+48877	951318	Middle Income	1
+48877	951330	Moderate Income	1
+48877	951326	Low Income	1
+48877	951322	Low Income	1
+48877	951332	Middle Income	1
+48877	951087	Moderate Income	1
+48877	951056	Middle Income	1
+48877	951333	Middle Income	1
+48877	951390	Low Income	1
+48877	951389	Low Income	1
+48877	951099	Middle Income	1
+48877	951024	Low Income	1
+48877	951052	Moderate Income	1
+48877	951039	Low Income	1
+48877	951321	Low Income	1
+48877	951032	Moderate Income	1
+48877	951394	Moderate Income	1
+48877	951045	Low Income	1
+48877	951081	Low Income	1
+48877	951388	Low Income	1
+48877	951037	Low Income	1
+48877	951085	Moderate Income	1
+48877	951083	Low Income	1
+48877	951105	Middle Income	1
+48877	951338	Middle Income	1
+48877	951047	Low Income	1
+48877	951050	Moderate Income	1
+48877	951034	Middle Income	1
+48877	951401	Middle Income	1
+48877	951073	Middle Income	1
+48877	951327	Moderate Income	1
+48877	951400	Middle Income	1
+48877	951089	Moderate Income	1
+48877	951035	Low Income	1
+48877	951320	Low Income	1
+48877	951107	Middle Income	1
+48877	951392	Low Income	1
+48877	951339	Middle Income	1
+48877	951331	Middle Income	1
+48877	951399	Middle Income	1
+48877	951395	Moderate Income	1
+48877	951336	Middle Income	1
+48877	951095	Middle Income	1
+48877	951043	Low Income	1
+48877	951058	Middle Income	1
+48877	951393	Moderate Income	1
+48877	951319	Low Income	1
+48877	951060	Middle Income	1
+48877	951402	Middle Income	1
+48877	951397	Middle Income	1
+48877	951396	Moderate Income	1
+48877	951334	Middle Income	1
+48877	951103	Middle Income	1
+48877	951329	Moderate Income	1
+48877	951337	Middle Income	1
+48877	951325	Low Income	1
+48877	951335	Middle Income	1
+48877	951324	Low Income	1
+48877	951328	Moderate Income	1
+48877	951093	Middle Income	1
+48877	951031	Low Income	1
+48877	950994	Middle Income	1
+48877	951033	Middle Income	1
+48877	951097	Middle Income	1
+48877	951398	Middle Income	1
+48877	951455	Moderate Income	1
+48877	951387	Middle Income	1
+48877	951091	Middle Income	1
+48877	951101	Middle Income	1
+51150	66602	Low Income	20
+63877	975693	Extremely Low Income	114
+63877	975693	Other	1
+48049	41031	Low Income	2
+48049	41031	Very Low Income	3
+48049	38114	Low Income	6
+48049	38114	Other	1
+48049	38114	Very Low Income	3
+48049	42401	Low Income	8
+48049	42401	Very Low Income	3
+48049	28357	Low Income	7
+48049	28357	Very Low Income	3
+48049	2630	Low Income	12
+48049	2630	Moderate Income	4
+48049	2630	Very Low Income	8
+64671	983110	Low Income	4
+64671	983110	Moderate Income	31
+64671	983110	Other	1
+58955	968078	Extremely Low Income	20
+58955	968078	Low Income	139
+58955	968078	Moderate Income	44
+58955	968078	Very Low Income	20
+51177	5659	Low Income	9
+51177	41521	Low Income	12
+51177	41519	Low Income	10
+51177	21220	Low Income	20
+51177	21191	Low Income	8
+51177	21191	Other	1
+51177	28152	Low Income	15
+51177	5656	Low Income	12
+51177	5656	Other	1
+51177	5624	Low Income	7
+51177	21221	Low Income	42
+51177	21218	Low Income	15
+51177	21219	Low Income	19
+51177	21219	Other	1
+51177	5661	Low Income	9
+51177	21246	Low Income	35
+51177	21246	Other	1
+51177	804763	Low Income	30
+51177	41937	Low Income	7
+61388	975509	Low Income	43
+61388	975509	Middle Income	35
+61388	975509	Moderate Income	33
+61388	975509	Other	141
+61388	975509	Other	1
+61388	975509	Very Low Income	10
+61610	975569	Low Income	16
+61610	975569	Moderate Income	28
+61610	975569	Other	1
+57533	355186	Extremely Low Income	3
+57533	355186	Low Income	6
+57533	355186	Other	1
+57533	355186	Very Low Income	229
+51561	57801	Extremely Low Income	2
+51561	57801	Low Income	16
+51561	57801	Very Low Income	3
+51561	57798	Low Income	17
+51561	57798	Moderate Income	1
+51561	57798	Very Low Income	3
+51561	57803	Extremely Low Income	1
+51561	57803	Low Income	18
+51561	57803	Moderate Income	1
+51561	57803	Other	1
+52888	116689	Extremely Low Income	1
+52888	116689	Low Income	24
+52888	116689	Moderate Income	2
+52888	116689	Very Low Income	3
+65227	60304	Extremely Low Income	27
+65227	60304	Low Income	20
+65227	60304	Very Low Income	2
+65227	62843	Extremely Low Income	17
+65227	62843	Low Income	16
+65227	62843	Very Low Income	2
+65227	62986	Extremely Low Income	21
+65227	62986	Low Income	15
+65227	62986	Moderate Income	2
+65227	62986	Very Low Income	6
+65227	62846	Extremely Low Income	16
+65227	62846	Low Income	11
+65227	62846	Moderate Income	1
+65227	62846	Very Low Income	1
+65227	60308	Extremely Low Income	37
+65227	60308	Low Income	31
+65227	60308	Moderate Income	3
+65227	60308	Very Low Income	10
+65227	60306	Extremely Low Income	16
+65227	60306	Low Income	19
+65227	60306	Moderate Income	1
+65227	60306	Very Low Income	4
+65227	62860	Extremely Low Income	17
+65227	62860	Low Income	15
+65227	62860	Very Low Income	2
+65227	63080	Extremely Low Income	23
+65227	63080	Low Income	18
+65227	63080	Very Low Income	8
+65227	63084	Extremely Low Income	29
+65227	63084	Low Income	17
+65227	63084	Moderate Income	1
+65227	63084	Very Low Income	19
+65227	63184	Extremely Low Income	17
+65227	63184	Low Income	13
+65227	63184	Moderate Income	2
+65227	63184	Very Low Income	10
+65227	63178	Extremely Low Income	23
+65227	63178	Low Income	11
+65227	63178	Very Low Income	6
+65227	63177	Extremely Low Income	18
+65227	63177	Low Income	15
+65227	63177	Moderate Income	2
+65227	63177	Very Low Income	8
+65227	63183	Extremely Low Income	17
+65227	63183	Low Income	5
+65227	63183	Moderate Income	1
+65227	63183	Very Low Income	6
+65227	63173	Extremely Low Income	8
+65227	63173	Low Income	13
+65227	63173	Very Low Income	8
+65227	806285	Extremely Low Income	19
+65227	806285	Low Income	14
+65227	806285	Very Low Income	3
+65227	63193	Extremely Low Income	20
+65227	63193	Low Income	9
+65227	63193	Moderate Income	1
+65227	63190	Extremely Low Income	16
+65227	63190	Low Income	8
+65227	63190	Moderate Income	2
+65227	63190	Very Low Income	5
+65227	63186	Extremely Low Income	10
+65227	63186	Low Income	4
+65227	63186	Very Low Income	6
+65227	63192	Extremely Low Income	18
+65227	63192	Low Income	14
+65227	63192	Moderate Income	2
+65227	63192	Very Low Income	7
+65227	63187	Extremely Low Income	23
+65227	63187	Low Income	17
+65227	63187	Moderate Income	2
+65227	63187	Very Low Income	11
+65227	63176	Extremely Low Income	15
+65227	63176	Low Income	12
+65227	63176	Very Low Income	2
+65227	806284	Extremely Low Income	12
+65227	806284	Low Income	13
+65227	806284	Very Low Income	6
+65227	99947	Extremely Low Income	19
+65227	99947	Low Income	10
+65227	99947	Very Low Income	3
+65227	99948	Extremely Low Income	21
+65227	99948	Low Income	11
+65227	99948	Moderate Income	3
+65227	99948	Very Low Income	3
+65227	104140	Extremely Low Income	31
+65227	104140	Low Income	23
+65227	104140	Moderate Income	2
+65227	104140	Very Low Income	3
+65227	110462	Extremely Low Income	11
+65227	110462	Low Income	4
+65227	110462	Very Low Income	4
+65227	110468	Extremely Low Income	7
+65227	110468	Low Income	8
+65227	110468	Very Low Income	2
+65227	110470	Extremely Low Income	8
+65227	110470	Low Income	8
+65227	110470	Moderate Income	1
+65227	110470	Very Low Income	3
+65227	49352	Extremely Low Income	4
+65227	49352	Low Income	7
+65227	49352	Very Low Income	5
+65227	49346	Extremely Low Income	5
+65227	49346	Low Income	8
+65227	49346	Very Low Income	3
+65227	49347	Extremely Low Income	28
+65227	49347	Low Income	33
+65227	49347	Moderate Income	1
+65227	49347	Very Low Income	11
+65227	110908	Extremely Low Income	6
+65227	110908	Low Income	3
+65227	110908	Very Low Income	6
+65227	99951	Extremely Low Income	13
+65227	99951	Low Income	4
+65227	99951	Moderate Income	2
+65227	99951	Very Low Income	5
+57668	966537	Extremely Low Income	119
+57668	985850	Extremely Low Income	56
+65337	270214	Low Income	15
+65337	270214	Very Low Income	4
+58889	12608	Extremely Low Income	39
+58889	12608	Low Income	279
+58889	12608	Moderate Income	1
+58889	12608	Other	1
+58889	12608	Very Low Income	7
+53017	972127	Moderate Income	1
+53017	972111	Moderate Income	1
+53017	972351	Middle Income	2
+53017	972097	Moderate Income	1
+53017	972125	Moderate Income	1
+53017	972099	Moderate Income	1
+53017	972124	Moderate Income	1
+53017	972131	Moderate Income	1
+53017	972082	Moderate Income	1
+53017	972088	Moderate Income	1
+53017	972138	Middle Income	2
+53017	972084	Moderate Income	1
+53017	972128	Moderate Income	1
+53017	972080	Moderate Income	1
+53017	972133	Middle Income	2
+53017	972119	Moderate Income	1
+53017	972178	Middle Income	2
+53017	972190	Moderate Income	1
+53017	972172	Middle Income	2
+53017	972195	Moderate Income	1
+53017	972186	Moderate Income	1
+53017	972171	Middle Income	2
+53017	972188	Moderate Income	1
+53017	972185	Moderate Income	1
+53017	972071	Moderate Income	1
+53017	972074	Moderate Income	1
+53017	972352	Moderate Income	1
+53017	972200	Moderate Income	1
+53017	972203	Moderate Income	1
+53017	972117	Moderate Income	1
+53017	972176	Middle Income	2
+53017	972169	Middle Income	2
+53017	972143	Middle Income	2
+53017	972089	Moderate Income	1
+53017	972078	Moderate Income	1
+53017	972208	Moderate Income	1
+53017	972109	Moderate Income	1
+53017	972194	Moderate Income	1
+53017	972170	Middle Income	2
+53017	972142	Middle Income	2
+53017	972140	Middle Income	2
+53017	972098	Moderate Income	1
+53017	972132	Middle Income	2
+53017	972083	Moderate Income	1
+53017	972068	Moderate Income	1
+53017	972129	Moderate Income	1
+53017	972123	Moderate Income	1
+53017	972141	Middle Income	2
+53017	972354	Moderate Income	1
+53017	972146	Middle Income	2
+53017	972184	Moderate Income	1
+53017	972081	Moderate Income	1
+53017	972353	Moderate Income	1
+53017	972189	Moderate Income	1
+53017	972139	Middle Income	2
+53017	972180	Middle Income	2
+53017	972181	Middle Income	2
+53017	972175	Middle Income	2
+53017	972209	Moderate Income	1
+53017	972087	Moderate Income	1
+53017	972137	Middle Income	2
+53017	972118	Moderate Income	1
+53017	972130	Moderate Income	1
+53017	972177	Middle Income	2
+53017	972201	Moderate Income	1
+53017	972073	Moderate Income	1
+53017	972090	Moderate Income	1
+53017	972207	Moderate Income	1
+53017	972202	Moderate Income	1
+53017	972144	Middle Income	2
+53017	972136	Middle Income	2
+53017	972210	Moderate Income	1
+53017	972193	Moderate Income	1
+53017	972197	Moderate Income	1
+53017	972192	Moderate Income	1
+53017	972198	Moderate Income	1
+53017	972211	Moderate Income	1
+53017	972149	Middle Income	2
+53017	972187	Moderate Income	1
+53017	972183	Middle Income	2
+53017	972179	Middle Income	2
+53017	972191	Moderate Income	1
+53017	972173	Middle Income	2
+49143	945536	Middle Income	142
+49143	945536	Other	102
+49143	945536	Very Low Income	62
+49147	6125	Moderate Income	15
+50813	943824	Other	176
+50408	67516	Other	1
+50408	67516	Very Low Income	42
+50424	528114	Moderate Income	1
+50424	552683	Low Income	1
+50424	594559	Low Income	1
+50424	513272	Moderate Income	1
+50424	655268	Moderate Income	1
+50424	630308	Moderate Income	1
+50424	584952	Moderate Income	1
+50424	597766	Moderate Income	1
+50424	532806	Low Income	1
+50424	532963	Low Income	1
+50424	533654	Moderate Income	1
+50424	533227	Low Income	1
+50424	553308	Low Income	1
+50424	565015	Low Income	1
+50424	522928	Moderate Income	1
+50424	568358	Moderate Income	1
+50424	529586	Low Income	1
+50424	531912	Low Income	1
+50424	597224	Low Income	1
+48731	941025	Low Income	12
+48731	104337	Low Income	11
+48731	121088	Low Income	19
+48731	121088	Other	1
+48731	941024	Low Income	56
+48731	941024	Other	1
+53473	74511	Extremely Low Income	100
+53473	74511	Other	1
+53473	60067	Extremely Low Income	34
+53473	60067	Other	1
+53245	956798	Low Income	132
+53245	956798	Other	1
+53245	956798	Very Low Income	19
+58863	45604	Low Income	7
+58863	45604	Very Low Income	2
+58863	116554	Low Income	18
+58863	116554	Moderate Income	2
+58863	116554	Very Low Income	5
+58863	81457	Moderate Income	3
+58863	81457	Very Low Income	1
+58863	104323	Low Income	11
+58863	104323	Very Low Income	4
+58863	116542	Low Income	22
+58863	104324	Low Income	15
+58863	104325	Low Income	11
+58863	104325	Very Low Income	5
+58863	103709	Low Income	6
+58863	842309	Low Income	30
+58863	78834	Low Income	27
+58863	78834	Very Low Income	5
+58863	65828	Low Income	8
+58863	115563	Low Income	2
+58863	115563	Moderate Income	1
+58863	115285	Low Income	17
+58863	115285	Very Low Income	10
+58863	65479	Low Income	24
+58863	65479	Very Low Income	19
+58863	64635	Low Income	11
+58863	64635	Very Low Income	5
+58863	91415	Low Income	8
+58863	822663	Low Income	14
+58863	822663	Very Low Income	32
+58863	92749	Low Income	6
+58863	92750	Low Income	1
+58863	92750	Moderate Income	1
+47838	321654	Low Income	4
+47838	308509	Low Income	2
+47838	379255	Low Income	7
+47838	321766	Low Income	6
+47838	357508	Low Income	8
+47838	378847	Low Income	8
+47838	322621	Low Income	3
+47838	322548	Low Income	2
+47838	322622	Low Income	3
+45326	934081	Low Income	18
+45326	934081	Moderate Income	54
+45326	934081	Other	1
+44250	927161	Extremely Low Income	8
+53580	976828	Extremely Low Income	32
+53580	976828	Low Income	124
+53580	976828	Other	1
+51581	64968	Extremely Low Income	3
+51581	64968	Low Income	64
+51581	64968	Moderate Income	4
+51581	64968	Other	1
+51581	64968	Very Low Income	7
+49517	945811	Low Income	94
+49517	945811	Other	1
+44865	969852	Low Income	29
+44865	969852	Very Low Income	36
+48996	972406	Middle Income	11
+48996	972405	Low Income	10
+50609	215649	Low Income	6
+50609	215649	Moderate Income	1
+50609	215649	Other	1
+50609	215649	Very Low Income	7
+54377		Extremely Low Income	1
+54377		Low Income	22
+54377		Moderate Income	8
+54377		Other	1
+54377		Very Low Income	18
+52405	186854	Low Income	14
+52405	186854	Moderate Income	4
+52405	186854	Other	1
+52405	186854	Very Low Income	1
+51565	805574	Low Income	378
+51565	805584	Low Income	378
+51565	805585	Low Income	186
+51565	4623	Low Income	186
+51565	4633	Low Income	186
+51565	4636	Low Income	378
+51565	803934	Low Income	378
+51565	31596	Low Income	378
+51565	4371	Low Income	186
+51565	4360	Low Income	186
+53551	11564	Very Low Income	12
+53551	968210	Very Low Income	14
+44256	988143	Extremely Low Income	129
+44256	988143	Low Income	69
+44256	988143	Other	1
+58733	968123	Extremely Low Income	8
+58733	968123	Low Income	22
+51051	387522	Other	105
+58780	993573	Extremely Low Income	104
+58780	993573	Low Income	55
+58780	993573	Other	1
+58780	993573	Very Low Income	115
+61608	985974	Low Income	193
+61608	985974	Other	1
+61608	985974	Very Low Income	22
+61678	981992	Extremely Low Income	67
+61678	981992	Low Income	76
+61678	981992	Other	1
+61678	981992	Very Low Income	34
+51868	977499	Extremely Low Income	80
+51868	977499	Low Income	120
+51868	977499	Middle Income	80
+51868	977499	Other	1
+51868	977499	Very Low Income	119
+51867	927152	Low Income	24
+51867	927152	Middle Income	38
+51867	927152	Other	1
+51867	927152	Very Low Income	16
+61841	976015	Extremely Low Income	158
+61841	976015	Other	1
+61842	976583	Extremely Low Income	145
+61842	976583	Other	1
+55219	222987	Low Income	47
+55219	222987	Very Low Income	74
+55219	221260	Low Income	111
+55219	221260	Other	1
+55219	221260	Very Low Income	189
+44333	955937	Extremely Low Income	61
+44333	955937	Other	1
+52774	974242	Low Income	90
+52774	974242	Middle Income	448
+52774	974242	Other	1
+52022	87500	Very Low Income	51
+60319	970855	Low Income	27
+60319	970855	Moderate Income	25
+60319	970855	Other	1
+60342	47636	Extremely Low Income	1
+60342	47636	Low Income	72
+60342	47636	Very Low Income	53
+48910	946091	Other	1
+48910	946091	Very Low Income	78
+59976	79476	Other	1
+59976	79476	Very Low Income	170
+44357	958188	Extremely Low Income	54
+44357	958188	Low Income	106
+44357	958188	Moderate Income	18
+44357	958188	Other	1
+55050	966963	Extremely Low Income	49
+55050	966963	Low Income	114
+55050	966963	Other	1
+49588	949027	Extremely Low Income	8
+49588	949027	Low Income	11
+49588	949027	Middle Income	3
+49588	949027	Other	32
+49588	949027	Other	1
+60810	972899	Extremely Low Income	33
+60810	972899	Low Income	100
+60810	972899	Moderate Income	17
+60810	972899	Other	1
+60810	972899	Very Low Income	16
+44295	965149	Extremely Low Income	11
+44295	965149	Low Income	68
+44295	965149	Other	1
+44295	965149	Very Low Income	22
+44295	965150	Extremely Low Income	7
+44295	965150	Low Income	10
+44295	965150	Very Low Income	11
+60020	974093	Extremely Low Income	46
+60020	974093	Low Income	102
+60020	974093	Other	1
+60020	974093	Very Low Income	5
+60435	305703	Extremely Low Income	10
+60435	306891	Extremely Low Income	11
+51249	94237	Other	1
+51249	94237	Very Low Income	28
+60784	37513	Moderate Income	15
+60784	6097	Moderate Income	13
+61297	972782	Extremely Low Income	40
+61297	972782	Low Income	126
+61297	972782	Moderate Income	6
+61297	972782	Other	1
+61297	972782	Very Low Income	17
+64436	984306	Extremely Low Income	28
+64436	984306	Low Income	75
+64436	984306	Other	1
+64436	984306	Very Low Income	31
+64436	984304	Extremely Low Income	23
+64436	984304	Low Income	67
+64436	984304	Other	1
+64436	984304	Very Low Income	32
+64436	984305	Extremely Low Income	15
+64436	984305	Low Income	35
+64436	984305	Very Low Income	18
+65212	985707	Low Income	27
+65212	985707	Moderate Income	44
+65212	985707	Other	1
+65212	985707	Very Low Income	18
+60425	971875	Extremely Low Income	15
+60425	971875	Low Income	33
+60425	971875	Other	1
+60425	971875	Very Low Income	8
+50370	186479	Low Income	201
+50370	186479	Other	1
+63734	927013	Extremely Low Income	88
+63734	927013	Other	1
+52852	116819	Low Income	25
+52852	55755	Low Income	25
+52852	116820	Low Income	25
+52852	111948	Low Income	69
+52852	121014	Low Income	37
+61625	92762	Extremely Low Income	49
+61625	92762	Very Low Income	3
+64745	927166	Extremely Low Income	8
+64745	927166	Low Income	14
+64745	927166	Moderate Income	15
+64745	927166	Other	1
+64745	927166	Very Low Income	7
+52893	976553	Extremely Low Income	27
+52893	976553	Low Income	88
+52893	976553	Other	1
+52893	976553	Very Low Income	19
+62289	976044	Extremely Low Income	50
+62289	976044	Low Income	16
+62289	976044	Other	1
+62289	976044	Very Low Income	4
+49959	948186	Extremely Low Income	8
+49959	948186	Other	1
+49959	948186	Very Low Income	42
+65523	42263	Extremely Low Income	6
+65523	42263	Low Income	11
+65523	42263	Other	1
+65523	42263	Very Low Income	4
+62211	974229	Extremely Low Income	4
+62211	974229	Low Income	35
+62211	974229	Moderate Income	5
+62211	974229	Other	1
+62211	974229	Very Low Income	4
+62211	974227	Low Income	28
+62211	974227	Moderate Income	4
+62211	974227	Other	1
+62211	974227	Very Low Income	4
+62211	974228	Extremely Low Income	4
+62211	974228	Low Income	36
+62211	974228	Moderate Income	5
+62211	974228	Other	1
+62211	974228	Very Low Income	6
+48621	120994	Low Income	24
+48621	120994	Other	1
+48621	120994	Very Low Income	15
+48621	100201	Low Income	3
+48621	100201	Very Low Income	1
+48621	120999	Low Income	11
+48621	120999	Very Low Income	10
+50184	40739	Low Income	8
+50184	40741	Low Income	6
+50184	40741	Very Low Income	2
+50184	40737	Low Income	8
+50184	40735	Low Income	6
+50184	40735	Very Low Income	2
+50184	28134	Low Income	12
+50184	28134	Very Low Income	3
+50184	28132	Low Income	14
+50184	28132	Other	1
+50184	40723	Low Income	8
+50184	4083	Low Income	18
+50184	4083	Moderate Income	1
+50184	4083	Very Low Income	3
+50184	4091	Low Income	10
+50184	4091	Very Low Income	7
+50184	3548	Low Income	8
+65543	978829	Extremely Low Income	64
+65543	978829	Other	1
+65599	77389	Extremely Low Income	1
+65599	77389	Low Income	18
+65563	11162	Extremely Low Income	1
+65563	11162	Low Income	2
+65563	11162	Very Low Income	14
+65621	197456	Extremely Low Income	119
+65621	807684	Extremely Low Income	118
+65621	807684	Other	1
+65621	807685	Extremely Low Income	119
+61612	975696	Extremely Low Income	40
+61612	975696	Low Income	116
+61612	975696	Other	1
+61612	975696	Very Low Income	40
+65983	983915	Extremely Low Income	158
+65983	983915	Other	1
+66005	519642	Extremely Low Income	91
+66005	519642	Low Income	7
+66005	519642	Very Low Income	44
+66005	955177	Extremely Low Income	107
+66005	955177	Low Income	7
+66005	955177	Very Low Income	30
+66005	812161	Extremely Low Income	89
+66005	812161	Low Income	7
+66005	812161	Very Low Income	48
+62227	977442	Extremely Low Income	113
+62227	977442	Low Income	49
+62227	977442	Other	1
+61728	975686	Extremely Low Income	28
+61728	975686	Low Income	30
+61728	975686	Other	1
+61728	975686	Very Low Income	34
+61740	973102	Extremely Low Income	83
+61740	973102	Other	1
+66102	85454	Extremely Low Income	1
+66102	85454	Low Income	21
+66102	85454	Other	1
+66102	85454	Very Low Income	9
+54360	979275	Extremely Low Income	2
+54360	979275	Low Income	4
+54360	979275	Very Low Income	2
+54360	979266	Low Income	8
+54360	979263	Low Income	8
+54360	979276	Low Income	8
+54360	979272	Extremely Low Income	2
+54360	979272	Low Income	2
+54360	979272	Very Low Income	4
+54360	979271	Extremely Low Income	1
+54360	979271	Low Income	4
+54360	979271	Very Low Income	3
+54360	979274	Extremely Low Income	2
+54360	979274	Low Income	4
+54360	979274	Very Low Income	2
+54360	979267	Extremely Low Income	2
+54360	979267	Low Income	4
+54360	979267	Very Low Income	2
+54360	979278	Extremely Low Income	2
+54360	979278	Low Income	4
+54360	979278	Very Low Income	2
+54360	979262	Extremely Low Income	3
+54360	979262	Low Income	3
+54360	979262	Very Low Income	2
+54360	979270	Low Income	7
+54360	979270	Other	1
+54360	979265	Extremely Low Income	2
+54360	979265	Low Income	3
+54360	979265	Very Low Income	3
+54360	979273	Low Income	8
+54360	979268	Extremely Low Income	3
+54360	979268	Low Income	3
+54360	979268	Very Low Income	2
+54360	979260	Low Income	8
+54360	979264	Extremely Low Income	2
+54360	979264	Low Income	3
+54360	979264	Very Low Income	3
+54360	979277	Extremely Low Income	2
+54360	979277	Low Income	4
+54360	979277	Very Low Income	2
+54360	979261	Extremely Low Income	3
+54360	979261	Low Income	3
+54360	979261	Very Low Income	2
+54360	979269	Extremely Low Income	3
+54360	979269	Low Income	3
+54360	979269	Very Low Income	2
+54360	979259	Extremely Low Income	3
+54360	979259	Low Income	4
+54360	979259	Very Low Income	1
+66558	300675	Moderate Income	1
+66558	300675	Very Low Income	4
+66565	185041	Very Low Income	2
+66565	234969	Extremely Low Income	1
+66565	234969	Low Income	5
+66565	234969	Moderate Income	1
+66565	234969	Very Low Income	3
+66565	234962	Low Income	3
+66565	234962	Moderate Income	1
+66565	234962	Very Low Income	2
+66565	234966	Extremely Low Income	1
+66565	234966	Low Income	1
+66565	234966	Very Low Income	4
+66565	234964	Low Income	6
+66565	234960	Low Income	3
+66565	234960	Very Low Income	3
+66565	207556	Extremely Low Income	1
+66565	207556	Low Income	2
+66565	207556	Other	1
+66565	207556	Very Low Income	5
+47868	42098	Low Income	12
+44324	927213	Low Income	24
+44324	927213	Middle Income	52
+44324	927213	Moderate Income	26
+44324	927213	Other	1
+63800	983972	Extremely Low Income	69
+63800	983972	Low Income	37
+63800	983972	Other	1
+63800	983972	Very Low Income	8
+52937	965899	Extremely Low Income	153
+52937	965899	Other	1
+51617	25490	Other	795
+51617	805099	Other	795
+48608	38692	Low Income	18
+48608	38692	Other	1
+48608	38692	Very Low Income	4
+48608	40238	Low Income	4
+48608	957589	Low Income	4
+48608	40005	Low Income	15
+48608	40005	Other	1
+48608	40005	Very Low Income	3
+48608	23493	Low Income	8
+48608	23493	Very Low Income	2
+48608	806050	Low Income	9
+48608	39958	Low Income	47
+48608	39958	Other	1
+48608	39958	Very Low Income	8
+49635	524251	Low Income	1
+49635	606930	Low Income	1
+49635	546603	Low Income	1
+49635	606794	Low Income	1
+49635	589793	Low Income	1
+49635	743473	Low Income	1
+49635	509831	Low Income	1
+49635	611063	Low Income	1
+49635	611062	Low Income	1
+49635	607523	Low Income	1
+49635	544606	Low Income	1
+49635	502964	Low Income	1
+49635	524259	Low Income	1
+48128	40547	Low Income	6
+48128	40547	Other	1
+48128	40547	Very Low Income	3
+48128	41096	Moderate Income	20
+48128	41096	Other	1
+48128	38344	Middle Income	6
+48128	38344	Very Low Income	10
+48128	40557	Low Income	6
+48128	40557	Other	1
+48128	40557	Very Low Income	4
+48128	40553	Low Income	9
+48128	40553	Other	1
+48128	40553	Very Low Income	11
+48128	38995	Middle Income	20
+48128	38995	Other	1
+44239	927150	Extremely Low Income	12
+44239	927150	Low Income	47
+44239	927150	Other	1
+50347	47143	Low Income	1
+50347	47143	Very Low Income	171
+50411	958174	Extremely Low Income	16
+50411	958174	Low Income	38
+50411	958174	Other	1
+57536	930918	Other	21
+57536	931118	Other	20
+57536	906101	Other	20
+55036	968113	Extremely Low Income	10
+55036	968113	Low Income	34
+55036	968113	Other	1
+55036	965812	Extremely Low Income	7
+55036	965812	Low Income	31
+51779	911614	Moderate Income	50
+51779	911614	Other	1
+51779	911614	Very Low Income	13
+54954	967023	Extremely Low Income	15
+54954	967023	Low Income	45
+54954	967023	Moderate Income	6
+54954	967023	Other	1
+54954	967023	Very Low Income	8
+52775	974241	Low Income	78
+52775	974241	Moderate Income	25
+52775	974241	Other	1
+52775	974241	Very Low Income	26
+52539	40896	Middle Income	2
+55026	86506	Low Income	20
+55026	86506	Middle Income	8
+55026	86506	Other	1
+55026	86506	Very Low Income	1
+55026	53587	Low Income	7
+55026	53587	Very Low Income	1
+55026	85467	Low Income	7
+55026	85467	Middle Income	3
+55026	85470	Low Income	7
+55026	85470	Middle Income	2
+55026	85470	Other	1
+55026	86507	Low Income	19
+55026	86507	Middle Income	2
+55026	86507	Very Low Income	4
+55026	86493	Low Income	6
+55026	86493	Very Low Income	2
+55026	109998	Low Income	11
+55026	109998	Middle Income	2
+55026	109998	Very Low Income	5
+58876	64056	Extremely Low Income	94
+58876	64056	Low Income	1
+58876	64056	Other	1
+58876	64056	Very Low Income	1
+58876	62785	Extremely Low Income	93
+58876	62785	Low Income	1
+58876	62785	Other	1
+58876	62785	Very Low Income	2
+55264	966135	Extremely Low Income	36
+55264	966135	Low Income	83
+55264	966135	Other	1
+49570	42452	Middle Income	3
+49570	10011	Middle Income	3
+49570	804217	Middle Income	3
+44280	928040	Extremely Low Income	15
+44280	928040	Low Income	137
+44280	928040	Other	1
+44280	928040	Very Low Income	46
+44230	927137	Moderate Income	3
+44230	967127	Moderate Income	3
+44230	967108	Moderate Income	3
+44230	967109	Middle Income	2
+44230	967109	Moderate Income	1
+44230	336151	Moderate Income	3
+44230	336111	Moderate Income	3
+44230	394346	Middle Income	3
+52701	127575	Low Income	128
+52701	127575	Very Low Income	87
+53077	23627	Low Income	125
+53077	23627	Very Low Income	36
+52666	970691	Middle Income	42
+52666	970691	Other	1
+52666	970691	Very Low Income	11
+53273	958147	Extremely Low Income	11
+53273	958147	Low Income	58
+53273	958147	Other	1
+53273	958147	Very Low Income	32
+54838	698722	Low Income	1
+54838	531492	Low Income	1
+54838	547028	Low Income	1
+54838	698863	Low Income	1
+54838	704769	Moderate Income	1
+54838	572898	Low Income	1
+54838	702317	Low Income	1
+54838	573899	Low Income	1
+54838	547748	Low Income	1
+54838	547717	Low Income	1
+54838	560017	Low Income	1
+54838	548229	Low Income	1
+54838	548146	Low Income	1
+54838	548243	Low Income	1
+54838	557243	Low Income	1
+54838	666605	Moderate Income	1
+54838	639912	Low Income	1
+54838	688787	Low Income	1
+54838	689508	Low Income	1
+54838	525119	Low Income	1
+54838	322293	Moderate Income	3
+54838	522494	Moderate Income	1
+54838	550452	Low Income	1
+54838	583605	Low Income	1
+59105	203238	Other	3
+59105	203239	Other	3
+59105	203237	Other	3
+59105	203240	Other	3
+59105	203236	Other	3
+59105	203235	Other	3
+51378	381909	Low Income	3
+51378	381909	Moderate Income	3
+52461	28287	Extremely Low Income	7
+52461	28287	Low Income	12
+52461	28287	Other	1
+52461	28287	Very Low Income	36
+44348	950310	Low Income	107
+44348	950310	Other	1
+44348	950310	Very Low Income	28
+48899	805574	Low Income	378
+48899	4636	Low Income	378
+48899	4633	Low Income	186
+48899	803934	Low Income	378
+48899	805584	Low Income	378
+48899	805585	Low Income	186
+48899	4623	Low Income	186
+48899	4371	Low Income	186
+48899	31596	Low Income	378
+48899	4360	Low Income	186
+44281	980874	Low Income	30
+44281	980874	Very Low Income	1
+44281	981192	Low Income	31
+44281	981457	Low Income	25
+44281	981457	Other	1
+44281	981457	Very Low Income	1
+44281	981460	Low Income	89
+44281	981459	Low Income	31
+44281	981458	Low Income	30
+44281	981458	Very Low Income	1
+45265	38135	Low Income	28
+45265	38135	Other	1
+45265	38135	Very Low Income	69
+45265	38122	Very Low Income	70
+51179	876943	Extremely Low Income	5
+51179	876943	Low Income	21
+51179	876943	Other	1
+51179	876943	Very Low Income	67
+50201	372190	Low Income	18
+50201	372190	Moderate Income	3
+50201	372190	Other	1
+50282	983486	Low Income	77
+50282	983486	Other	1
+50282	983486	Very Low Income	8
+51302	979324	Extremely Low Income	56
+51302	979324	Low Income	99
+51302	979324	Moderate Income	67
+51302	979324	Other	1
+51302	979324	Very Low Income	58
+51302	979325	Extremely Low Income	43
+51302	979325	Low Income	73
+51302	979325	Moderate Income	54
+51302	979325	Other	1
+51302	979325	Very Low Income	44
+52119	990448	Extremely Low Income	6
+52119	990448	Low Income	24
+52119	990448	Other	1
+52119	990448	Very Low Income	29
+51357	951689	Low Income	48
+51357	951689	Middle Income	15
+51357	951689	Other	1
+51357	951689	Very Low Income	15
+51950	544663	Low Income	1
+51950	572104	Low Income	1
+51950	591716	Low Income	1
+51950	532932	Low Income	1
+51950	367956	Low Income	1
+51950	536580	Low Income	1
+51950	679081	Low Income	1
+51950	690769	Low Income	1
+51950	543689	Low Income	1
+51950	611866	Low Income	1
+51950	561639	Low Income	1
+51950	324387	Low Income	1
+51950	610826	Low Income	1
+51950	550818	Low Income	1
+51950	281922	Low Income	1
+51950	549840	Low Income	1
+51950	597082	Low Income	1
+51950	583620	Low Income	1
+51950	595312	Low Income	1
+51950	589736	Low Income	1
+49938	947501	Low Income	67
+49938	947501	Middle Income	20
+49938	947501	Other	1
+49938	947501	Very Low Income	10
+50497	806842	Low Income	153
+50497	806842	Moderate Income	22
+50497	806842	Other	1
+58388	970697	Extremely Low Income	80
+58388	970697	Other	1
+58623	976713	Extremely Low Income	12
+58623	976713	Low Income	67
+58623	976713	Moderate Income	22
+58623	976713	Other	1
+58623	976713	Very Low Income	12
+59388	972462	Extremely Low Income	62
+59388	972462	Other	1
+50410	980814	Extremely Low Income	40
+50410	980814	Low Income	23
+50410	980814	Other	1
+50410	980814	Very Low Income	16
+48011	45506	Low Income	53
+48011	45506	Moderate Income	6
+48011	45506	Other	1
+48729	122170	Low Income	89
+48729	122170	Other	1
+48729	90293	Low Income	14
+48729	90293	Very Low Income	6
+48729	57116	Low Income	18
+48729	57116	Other	1
+48729	57116	Very Low Income	9
+48729	46169	Low Income	21
+48729	46169	Other	1
+48729	46169	Very Low Income	33
+51301	976948	Extremely Low Income	97
+51301	976948	Low Income	63
+51301	976948	Other	1
+53180	977640	Extremely Low Income	8
+53180	977640	Low Income	120
+59637	39843	Extremely Low Income	2
+59637	39843	Low Income	6
+59637	39843	Moderate Income	1
+59637	39843	Very Low Income	15
+59637	39842	Low Income	10
+59637	39842	Very Low Income	8
+44282	973906	Low Income	48
+44282	973906	Middle Income	79
+44282	973906	Other	1
+44282	973906	Very Low Income	32
+50509	965117	Low Income	24
+50509	965117	Moderate Income	69
+50509	965117	Other	1
+52656	958170	Extremely Low Income	75
+52656	958170	Low Income	25
+52656	958170	Other	1
+44388	958153	Extremely Low Income	31
+44388	958153	Low Income	62
+44388	958153	Other	1
+50655	958176	Extremely Low Income	16
+50655	958176	Low Income	12
+50655	958176	Moderate Income	9
+50655	958176	Other	1
+50655	958176	Very Low Income	13
+44405	973259	Low Income	118
+44405	973259	Middle Income	164
+44405	973259	Other	304
+45303	972798	Low Income	19
+45303	972798	Very Low Income	13
+45303	949086	Low Income	44
+45303	949086	Other	1
+45303	949086	Very Low Income	33
+54520	975517	Extremely Low Income	65
+54520	975517	Low Income	152
+54520	975517	Other	1
+51396	804799	Moderate Income	84
+51396	904741	Moderate Income	184
+51396	2716	Moderate Income	60
+51396	2713	Moderate Income	297
+58562	100435	Other	1
+58562	100435	Very Low Income	142
+58608	110045	Low Income	39
+58608	93379	Low Income	2
+58608	93375	Low Income	15
+58608	110036	Low Income	56
+58608	93376	Low Income	15
+58608	93377	Low Income	28
+58608	93374	Low Income	20
+58608	60011	Low Income	25
+58608	93371	Low Income	8
+58608	110042	Low Income	50
+58608	111345	Low Income	12
+58666	968251	Extremely Low Income	88
+58666	968251	Low Income	12
+58666	968251	Other	1
+58666	968251	Very Low Income	25
+58790	396881	Extremely Low Income	94
+58790	396881	Other	1
+58980	197971	Low Income	5
+58980	197971	Very Low Income	7
+58980	197980	Low Income	6
+58980	197980	Other	1
+58980	197980	Very Low Income	1
+58980	197981	Low Income	4
+58980	197981	Very Low Income	4
+58980	197979	Low Income	6
+58980	197979	Very Low Income	2
+51123	967799	Low Income	25
+51123	967799	Middle Income	24
+51123	967799	Other	73
+51123	967799	Other	1
+61575	972764	Extremely Low Income	17
+61575	972764	Low Income	34
+61575	972764	Other	1
+61575	972764	Very Low Income	15
+61587	8083	Moderate Income	20
+61609		Extremely Low Income	23
+61609		Low Income	18
+61609		Other	1
+44353	939117	Extremely Low Income	33
+44353	939117	Low Income	16
+44353	939117	Other	1
+44353	926997	Extremely Low Income	12
+44353	926997	Low Income	27
+44353	926997	Other	1
+46143	976480	Extremely Low Income	6
+46143	976480	Low Income	14
+46143	976480	Very Low Income	8
+46143	958172	Extremely Low Income	10
+46143	958172	Low Income	76
+46143	958172	Moderate Income	26
+46143	958172	Other	1
+46143	958172	Very Low Income	40
+48787	215645	Very Low Income	16
+64232	982787	Extremely Low Income	18
+64232	982787	Low Income	80
+64232	982787	Other	1
+64232	982787	Very Low Income	74
+64232	988401	Extremely Low Income	7
+64232	988401	Low Income	46
+64232	988401	Very Low Income	27
+50788	11230	Other	13
+65280	27617	Extremely Low Income	5
+65280	27617	Low Income	37
+65280	27617	Moderate Income	7
+65280	27617	Other	1
+65280	27617	Very Low Income	42
+68211	989031	Low Income	81
+68211	989031	Other	1
+68211	989031	Very Low Income	81
+68210	989008	Extremely Low Income	90
+68210	989008	Low Income	28
+68210	989008	Other	1
+68210	989008	Very Low Income	29
+66970	992321	Extremely Low Income	66
+66970	992321	Low Income	22
+66970	992321	Middle Income	110
+66970	992321	Moderate Income	89
+66970	992321	Other	111
+66970	992321	Other	1
+66970	992321	Very Low Income	44
+66970	993728	Extremely Low Income	104
+66970	993728	Low Income	35
+66970	993728	Middle Income	172
+66970	993728	Moderate Income	138
+66970	993728	Other	172
+66970	993728	Other	1
+66970	993728	Very Low Income	67
+65730	60471	Extremely Low Income	2
+65730	60471	Low Income	1
+65730	60471	Very Low Income	17
+65730	74440	Extremely Low Income	1
+65730	74440	Other	1
+65730	74440	Very Low Income	13
+65730	60470	Extremely Low Income	4
+65730	60470	Low Income	2
+65730	60470	Other	1
+65730	60470	Very Low Income	13
+65730	97435	Low Income	4
+65730	97435	Other	1
+65730	97435	Very Low Income	8
+65730	97431	Low Income	8
+65730	97431	Very Low Income	17
+65730	119101	Low Income	11
+65730	119101	Other	2
+65730	119101	Very Low Income	24
+59474	18848	Extremely Low Income	1
+59474	18848	Low Income	22
+59474	18848	Other	1
+59474	18848	Very Low Income	14
+59474	23935	Extremely Low Income	2
+59474	23935	Low Income	2
+59474	23935	Very Low Income	5
+59474	18986	Extremely Low Income	6
+59474	18986	Low Income	10
+59474	18986	Very Low Income	20
+59474	18849	Low Income	5
+59474	18849	Very Low Income	5
+59474	19124	Low Income	2
+59474	19124	Very Low Income	2
+59474	18781	Extremely Low Income	10
+59474	18781	Low Income	3
+59474	18781	Very Low Income	4
+59474	18990	Extremely Low Income	9
+59474	18990	Low Income	8
+59474	18990	Other	1
+59474	18990	Very Low Income	16
+59474	18870	Extremely Low Income	1
+59474	18870	Low Income	2
+59474	18870	Very Low Income	6
+59474	18784	Extremely Low Income	7
+59474	18784	Low Income	3
+59474	18784	Other	1
+59474	18784	Very Low Income	9
+59474	18783	Extremely Low Income	10
+59474	18783	Low Income	23
+59474	18783	Other	1
+59474	18783	Very Low Income	17
+59474	18872	Extremely Low Income	2
+59474	18872	Low Income	2
+59474	18872	Very Low Income	5
+59474	19114	Low Income	2
+59474	19114	Very Low Income	5
+59474	18779	Extremely Low Income	1
+59474	18779	Low Income	4
+59474	18779	Very Low Income	4
+59474	23936	Extremely Low Income	1
+59474	23936	Low Income	1
+59474	23936	Very Low Income	7
+59474	19757	Extremely Low Income	1
+59474	19757	Low Income	20
+59474	19757	Very Low Income	9
+59474	1172	Low Income	1
+59474	1172	Very Low Income	8
+59474	26271	Extremely Low Income	1
+59474	26271	Low Income	5
+59474	26271	Very Low Income	4
+59474	26274	Extremely Low Income	6
+59474	26274	Low Income	8
+59474	26274	Very Low Income	4
+59474	804664	Low Income	4
+59474	804664	Very Low Income	6
+59474	19910	Low Income	4
+59474	19910	Very Low Income	5
+59474	19758	Low Income	5
+59474	19758	Other	1
+59474	19758	Very Low Income	5
+51424	44252	Other	384
+65205	983973	Extremely Low Income	52
+65205	983973	Other	1
+65205	983973	Very Low Income	33
+66982	99126	Extremely Low Income	19
+66982	99126	Low Income	2
+66982	99126	Very Low Income	12
+66982	88675	Extremely Low Income	12
+66982	88675	Low Income	1
+66982	88675	Very Low Income	2
+66982	79308	Extremely Low Income	15
+66982	79308	Low Income	1
+66982	79308	Very Low Income	4
+66982	79310	Extremely Low Income	13
+66982	79310	Low Income	2
+66982	79310	Other	2
+66982	79310	Very Low Income	4
+66982	99125	Extremely Low Income	15
+66982	99125	Low Income	3
+66982	99125	Very Low Income	7
+66982	120955	Extremely Low Income	19
+66982	120955	Low Income	1
+66982	120955	Very Low Income	3
+66982	99135	Extremely Low Income	13
+66982	99135	Low Income	5
+66982	99135	Very Low Income	4
+66982	79317	Extremely Low Income	10
+66982	79317	Low Income	2
+66982	79317	Other	1
+66982	79317	Very Low Income	2
+66982	79315	Extremely Low Income	6
+66982	79315	Low Income	1
+66982	79315	Very Low Income	8
+66982	79309	Extremely Low Income	9
+66982	79309	Low Income	5
+66982	79309	Other	1
+66982	79309	Very Low Income	5
+66982	79311	Extremely Low Income	13
+66982	79311	Low Income	2
+66982	120956	Extremely Low Income	23
+66982	120956	Low Income	2
+66982	120956	Very Low Income	2
+66982	45419	Extremely Low Income	36
+66982	45419	Low Income	8
+66982	45419	Very Low Income	13
+66982	100142	Extremely Low Income	16
+66982	100142	Low Income	1
+66982	100142	Other	1
+66982	100142	Very Low Income	9
+58954	968125	Low Income	80
+58954	968125	Middle Income	134
+58954	968125	Moderate Income	150
+58954	968125	Other	1
+58954	968125	Very Low Income	15
+66653	985501	Extremely Low Income	135
+66653	985501	Other	1
+66651	986550	Extremely Low Income	176
+66651	986550	Other	1
+66669	48001	Extremely Low Income	6
+66669	48001	Other	1
+66669	48001	Very Low Income	41
+66670	313888	Low Income	1
+66670	313888	Very Low Income	5
+66670	305684	Extremely Low Income	2
+66670	305684	Low Income	4
+66670	305684	Moderate Income	1
+66670	305684	Very Low Income	1
+66670	185649	Low Income	6
+66670	185649	Other	1
+66670	185649	Very Low Income	9
+66670	185651	Extremely Low Income	1
+66670	185651	Low Income	5
+66670	185651	Very Low Income	10
+66670	313945	Extremely Low Income	3
+66670	313945	Low Income	1
+66670	313945	Very Low Income	2
+66670	305434	Extremely Low Income	1
+66670	305434	Very Low Income	3
+66670	305679	Low Income	7
+66670	305679	Very Low Income	4
+66670	373163	Extremely Low Income	1
+66670	373163	Low Income	1
+66670	373163	Other	1
+66670	373163	Very Low Income	5
+66670	311117	Low Income	7
+66670	311117	Other	1
+66670	311117	Very Low Income	7
+66670	219614	Low Income	1
+66670	219614	Very Low Income	3
+66670	219550	Low Income	2
+66670	219550	Very Low Income	2
+66670	297291	Extremely Low Income	1
+66670	297291	Very Low Income	3
+66670	323979	Extremely Low Income	1
+66670	323979	Low Income	1
+66670	323979	Very Low Income	2
+66670	357754	Extremely Low Income	3
+66670	357754	Very Low Income	3
+66670	344472	Extremely Low Income	1
+66670	344472	Low Income	2
+66670	344472	Very Low Income	9
+66670	344459	Extremely Low Income	1
+66670	344459	Low Income	1
+66670	344459	Very Low Income	4
+66670	316984	Extremely Low Income	1
+66670	316984	Low Income	1
+66670	316984	Moderate Income	1
+66670	316984	Very Low Income	1
+66670	316922	Very Low Income	4
+66670	316843	Very Low Income	3
+66670	316920	Extremely Low Income	1
+66670	316920	Very Low Income	3
+66670	316728	Extremely Low Income	1
+66670	316728	Low Income	1
+66670	316728	Other	1
+66670	316728	Very Low Income	3
+66670	311881	Extremely Low Income	1
+66670	311881	Low Income	2
+66670	311881	Very Low Income	1
+66670	381700	Low Income	2
+66670	381700	Moderate Income	1
+66670	381700	Very Low Income	5
+66670	381698	Extremely Low Income	1
+66670	381698	Low Income	2
+66670	381698	Very Low Income	2
+66670	381565	Extremely Low Income	3
+66670	381565	Low Income	1
+66670	381565	Very Low Income	2
+66670	381568	Extremely Low Income	3
+66670	381568	Low Income	1
+66670	381568	Very Low Income	4
+66670	381608	Low Income	1
+66670	381608	Other	1
+66670	381608	Very Low Income	5
+66670	381602	Extremely Low Income	3
+66670	381572	Low Income	1
+66670	381572	Very Low Income	4
+66670	381637	Low Income	1
+66670	381637	Very Low Income	2
+66670	362369	Extremely Low Income	3
+66670	362369	Low Income	1
+66670	362369	Very Low Income	2
+66670	329819	Extremely Low Income	1
+66670	329819	Very Low Income	2
+66670	329756	Low Income	2
+66670	329756	Very Low Income	2
+66670	377997	Extremely Low Income	1
+66670	377997	Low Income	1
+66670	377997	Very Low Income	4
+66670	377994	Extremely Low Income	1
+66670	377994	Low Income	1
+66670	377994	Very Low Income	4
+66670	299448	Extremely Low Income	1
+66670	299448	Low Income	4
+66670	299448	Very Low Income	3
+66670	362766	Low Income	3
+66670	362769	Low Income	1
+66670	362769	Very Low Income	2
+66670	362780	Extremely Low Income	1
+66670	362780	Very Low Income	2
+66670	213537	Low Income	4
+66670	213537	Very Low Income	2
+66670	346836	Extremely Low Income	1
+66670	346836	Low Income	2
+66670	346836	Very Low Income	5
+66670	346832	Low Income	3
+66670	346832	Other	1
+66670	346832	Very Low Income	8
+66670	346837	Low Income	1
+66670	346837	Very Low Income	6
+66670	205561	Low Income	2
+66670	205561	Very Low Income	4
+66670	205471	Extremely Low Income	1
+66670	205471	Low Income	3
+66670	205471	Very Low Income	5
+66670	389105	Extremely Low Income	1
+66670	389105	Low Income	1
+66670	389105	Very Low Income	2
+66670	389104	Extremely Low Income	1
+66670	389104	Low Income	1
+66670	389104	Very Low Income	2
+66670	378228	Extremely Low Income	1
+66670	378228	Low Income	1
+66670	378228	Other	1
+66670	378228	Very Low Income	1
+66670	317236	Low Income	1
+66670	317236	Very Low Income	5
+66670	317155	Low Income	3
+66670	317155	Very Low Income	6
+66670	305733	Low Income	1
+66670	305733	Very Low Income	2
+66670	305955	Low Income	2
+66670	305955	Very Low Income	2
+66670	297646	Low Income	16
+66670	297646	Other	1
+66670	297646	Very Low Income	19
+66670	366608	Other	1
+66670	366608	Very Low Income	3
+66670	807962	Extremely Low Income	3
+66670	807962	Very Low Income	3
+66670	304300	Extremely Low Income	2
+66670	304300	Low Income	1
+66670	304382	Very Low Income	4
+66670	304407	Low Income	1
+66670	304407	Very Low Income	2
+66670	304358	Low Income	1
+66670	304358	Very Low Income	3
+66670	304315	Extremely Low Income	1
+66670	304315	Low Income	1
+66670	304315	Very Low Income	4
+66670	304362	Extremely Low Income	1
+66670	304362	Low Income	1
+66670	304362	Very Low Income	1
+66670	334948	Low Income	3
+66670	334948	Very Low Income	9
+66670	299516	Extremely Low Income	5
+66670	299516	Low Income	5
+66670	299516	Moderate Income	1
+66670	299516	Very Low Income	4
+66670	232324	Extremely Low Income	2
+66670	232324	Low Income	1
+66670	232324	Very Low Income	1
+66670	232346	Extremely Low Income	1
+66670	232346	Very Low Income	3
+66670	222894	Extremely Low Income	2
+66670	222894	Other	1
+66670	222894	Very Low Income	4
+66670	222695	Extremely Low Income	1
+66670	222695	Very Low Income	5
+66670	304053	Very Low Income	9
+66670	319272	Low Income	7
+66670	319272	Very Low Income	1
+66670	330794	Low Income	4
+66670	330794	Very Low Income	4
+66670	332710	Low Income	2
+66670	332710	Very Low Income	2
+66670	332676	Low Income	1
+66670	332676	Very Low Income	2
+66670	184823	Low Income	2
+66670	184823	Very Low Income	3
+66670	357698	Very Low Income	3
+66670	330393	Low Income	1
+66670	330393	Very Low Income	7
+66670	357167	Low Income	5
+66670	357167	Very Low Income	3
+66670	211821	Extremely Low Income	2
+66670	211821	Very Low Income	2
+66670	377223	Extremely Low Income	1
+66670	377223	Very Low Income	2
+66670	325079	Extremely Low Income	1
+66670	325079	Low Income	5
+66670	325079	Other	1
+66670	325079	Very Low Income	13
+67504	33639	Extremely Low Income	40
+67504	33639	Low Income	2
+67504	33639	Other	2
+67504	33639	Very Low Income	10
+67632	86433	Extremely Low Income	1
+67632	86433	Low Income	8
+67632	86433	Other	1
+67632	86433	Very Low Income	46
+67632	122199	Extremely Low Income	8
+67632	122199	Low Income	5
+67632	122199	Other	1
+67632	122199	Very Low Income	45
+64736	979673	Extremely Low Income	41
+64736	979673	Very Low Income	27
+67752	88703	Very Low Income	15
+67752	88700	Very Low Income	10
+67752	88704	Very Low Income	16
+51271	213417	Middle Income	192
+51271	213417	Other	1
+66805	452	Low Income	8
+66805	502	Extremely Low Income	1
+66805	502	Low Income	12
+66805	966644	Low Income	35
+66805	966644	Middle Income	4
+66805	966644	Moderate Income	8
+66805	966644	Other	1
+68432	326090	Extremely Low Income	2
+68432	326090	Low Income	250
+68432	326090	Very Low Income	42
+68432	808252	Extremely Low Income	1
+68432	808252	Low Income	260
+68432	808252	Very Low Income	33
+68432	808705	Low Income	261
+68432	808705	Other	1
+68432	808705	Very Low Income	32
+68432	326066	Extremely Low Income	3
+68432	326066	Low Income	265
+68432	326066	Other	1
+68432	326066	Very Low Income	50
+68432	288856	Low Income	7
+68432	288856	Very Low Income	25
+68432	288857	Low Income	248
+68432	288857	Very Low Income	46
+68433	6012	Extremely Low Income	50
+68433	6012	Low Income	10
+68433	6012	Other	1
+68433	6012	Very Low Income	133
+48768	65052	Extremely Low Income	4
+48768	65052	Low Income	6
+48768	65052	Other	1
+48768	65052	Very Low Income	121
+63880	984611	Extremely Low Income	46
+63880	984611	Low Income	74
+63880	984611	Other	1
+63880	984611	Very Low Income	40
+65298	985028	Extremely Low Income	50
+65298	985028	Low Income	112
+65298	985028	Moderate Income	37
+65298	985028	Other	1
+65298	985028	Very Low Income	49
+53010	378861	Extremely Low Income	2
+53010	378861	Low Income	1
+53010	378861	Moderate Income	5
+66720	985837	Extremely Low Income	53
+66720	985837	Moderate Income	190
+66720	985837	Other	135
+66720	985837	Other	2
+66720	985837	Very Low Income	163
+62102	987587	Extremely Low Income	18
+62102	987587	Low Income	125
+62102	987587	Other	1
+62102	987587	Very Low Income	36
+63154	975397	Low Income	33
+63154	975397	Middle Income	170
+63154	975397	Moderate Income	68
+63154	975397	Other	1
+63154	975397	Very Low Income	69
+60824		Extremely Low Income	37
+60824		Other	1
+60824		Very Low Income	24
+61967	19431	Extremely Low Income	56
+61967	19431	Other	1
+58661	221786	Low Income	9
+58661	221786	Moderate Income	5
+61611	975412	Extremely Low Income	8
+61611	975412	Low Income	29
+61611	975412	Moderate Income	42
+61611	975412	Other	1
+61611	975412	Very Low Income	14
+61611	975414	Extremely Low Income	10
+61611	975414	Low Income	58
+61611	975414	Moderate Income	38
+61611	975414	Other	1
+61611	975414	Very Low Income	7
+61611	975413	Extremely Low Income	5
+61611	975413	Low Income	16
+61611	975413	Moderate Income	31
+61611	975413	Very Low Income	5
+64829	989273	Extremely Low Income	79
+64829	989273	Other	1
+52795	805885	Extremely Low Income	34
+52795	805885	Other	1
+44409	927022	Extremely Low Income	11
+44409	927022	Low Income	64
+44409	927022	Other	1
+44409	927022	Very Low Income	32
+66644	985451	Extremely Low Income	30
+66644	985451	Low Income	64
+66644	985451	Very Low Income	24
+63209	986657	Middle Income	40
+63209	986657	Moderate Income	65
+63209	986657	Other	208
+63209	986657	Other	1
+63209	986657	Very Low Income	80
+65054	119102	Low Income	18
+65054	119102	Other	1
+65054	119102	Very Low Income	30
+65054	806197	Low Income	48
+65054	806197	Other	1
+65054	806197	Very Low Income	62
+65054	115524	Extremely Low Income	12
+65054	115524	Low Income	11
+65054	115524	Other	1
+65054	115524	Very Low Income	2
+65054	119100	Low Income	12
+65054	119100	Very Low Income	17
+65054	119086	Low Income	13
+65054	119086	Other	1
+65054	119086	Very Low Income	17
+65054	119099	Low Income	8
+65054	119099	Other	1
+65054	119099	Very Low Income	20
+65054	66100	Extremely Low Income	3
+65054	66100	Low Income	10
+65054	66100	Very Low Income	11
+65054	74425	Low Income	11
+65054	74425	Other	1
+65054	74425	Very Low Income	12
+65054	97470	Low Income	14
+65054	97470	Other	1
+65054	97470	Very Low Income	27
+65054	97472	Extremely Low Income	2
+65054	97472	Low Income	15
+65054	97472	Very Low Income	13
+65054	83651	Low Income	20
+65054	83651	Other	1
+65054	83651	Very Low Income	18
+65054	65840	Extremely Low Income	7
+65054	65840	Low Income	18
+65054	65840	Other	1
+65054	65840	Very Low Income	25
+65054	66071	Low Income	12
+65054	66071	Other	1
+65054	66071	Very Low Income	17
+65373	28125	Extremely Low Income	2
+65373	28125	Low Income	1
+65373	28125	Very Low Income	9
+65373	41278	Extremely Low Income	2
+65373	41278	Low Income	1
+65373	41278	Very Low Income	7
+65373	41279	Extremely Low Income	1
+65373	41279	Low Income	13
+65373	41279	Other	1
+65373	41279	Very Low Income	5
+65373	40514	Extremely Low Income	2
+65373	40514	Low Income	2
+65373	40514	Very Low Income	6
+65373	41280	Low Income	12
+65373	41280	Very Low Income	8
+65373	38571	Extremely Low Income	1
+65373	38571	Low Income	3
+65373	38571	Very Low Income	6
+51031	6546	Other	16
+50806	11247	Other	12
+50807	6424	Other	9
+51320	203238	Other	3
+51320	203240	Other	3
+51320	203235	Other	3
+51320	203236	Other	3
+51320	203239	Other	3
+51320	203237	Other	3
+50866	634640	Other	6
+61875	804826	Extremely Low Income	69
+61875	804826	Other	1
+61875	804826	Very Low Income	326
+61875	804652	Extremely Low Income	66
+61875	804652	Very Low Income	310
+61875	413	Extremely Low Income	74
+61875	413	Very Low Income	352
+61875	804825	Extremely Low Income	68
+61875	804825	Other	1
+61875	804825	Very Low Income	327
+67367	992168	Extremely Low Income	23
+67367	992168	Low Income	112
+67367	992168	Other	1
+67367	992168	Very Low Income	88
+50248	349890	Low Income	3
+50248	219540	Low Income	6
+50248	219546	Low Income	6
+50248	309562	Low Income	3
+50248	221738	Low Income	2
+50248	219551	Low Income	2
+50248	309559	Low Income	3
+50248	349884	Low Income	3
+50248	349855	Low Income	4
+50248	219567	Low Income	2
+50248	221746	Low Income	5
+50248	398650	Low Income	3
+50248	211306	Low Income	2
+50248	363970	Low Income	2
+50248	363912	Low Income	3
+50248	369344	Low Income	3
+50248	354114	Low Income	3
+50248	398640	Low Income	3
+50248	357152	Low Income	9
+50248	205660	Low Income	5
+50248	183277	Low Income	5
+63751	927005	Extremely Low Income	16
+63751	927005	Low Income	97
+63751	927005	Moderate Income	23
+63751	927005	Other	1
+63751	927005	Very Low Income	15
+65391	10031	Extremely Low Income	145
+65391	10031	Low Income	1
+65391	10031	Other	1
+65391	10031	Very Low Income	4
+65215	27196	Extremely Low Income	16
+65215	27196	Low Income	104
+65215	27196	Other	1
+65215	27196	Very Low Income	310
+64492	874245	Extremely Low Income	6
+64492	874245	Low Income	36
+64492	874245	Very Low Income	30
+61931	981672	Middle Income	284
+61931	981672	Moderate Income	90
+61931	981672	Other	265
+61931	981672	Other	1
+61931	981672	Very Low Income	160
+63777	985433	Extremely Low Income	11
+63777	985433	Low Income	23
+63777	985433	Moderate Income	58
+63777	985433	Very Low Income	23
+63777	985431	Extremely Low Income	19
+63777	985431	Low Income	37
+63777	985431	Moderate Income	90
+63777	985431	Very Low Income	37
+63777	985432	Extremely Low Income	14
+63777	985432	Low Income	28
+63777	985432	Moderate Income	72
+63777	985432	Other	1
+63777	985432	Very Low Income	29
+48753	89051	Extremely Low Income	4
+48753	89051	Low Income	7
+48753	89051	Other	1
+48753	89051	Very Low Income	73
+68810	6199	Extremely Low Income	24
+68810	6199	Low Income	3
+68810	6199	Other	1
+68810	6199	Very Low Income	19
+65582	993492	Extremely Low Income	12
+65582	993492	Low Income	28
+65582	993492	Other	1
+65582	993492	Very Low Income	12
+67960	122729	Low Income	3
+67960	122729	Very Low Income	1
+66769	984712	Extremely Low Income	30
+66769	984712	Low Income	81
+66769	984712	Other	1
+66769	984712	Very Low Income	30
+67522	934463	Extremely Low Income	66
+67522	934463	Low Income	20
+67522	934463	Other	1
+67522	934463	Very Low Income	21
+67523	989049	Extremely Low Income	105
+67523	989049	Low Income	69
+67523	989049	Other	1
+66834	11562	Extremely Low Income	13
+66834	11562	Very Low Income	4
+66834	6443	Extremely Low Income	13
+66834	6443	Low Income	1
+66834	6443	Very Low Income	2
+66834	11395	Extremely Low Income	27
+66834	11395	Low Income	4
+66834	11395	Very Low Income	4
+66834	6446	Extremely Low Income	15
+66834	6446	Low Income	1
+66834	6446	Middle Income	1
+66834	6446	Very Low Income	6
+61271	99387	Extremely Low Income	54
+61271	99387	Low Income	35
+61271	99387	Other	1
+68080	992352	Extremely Low Income	51
+68080	992352	Low Income	59
+68080	992352	Other	1
+68080	992352	Very Low Income	40
+65378	40621	Low Income	5
+65378	40621	Other	1
+65378	40621	Very Low Income	14
+65378	41290	Extremely Low Income	5
+65378	41290	Low Income	1
+65378	41290	Very Low Income	4
+65378	42315	Low Income	1
+65378	42315	Very Low Income	9
+65378	42317	Other	1
+65378	42317	Very Low Income	9
+65378	42319	Extremely Low Income	2
+65378	42319	Very Low Income	16
+65378	42316	Low Income	2
+65378	42316	Very Low Income	8
+65378	41285	Extremely Low Income	1
+65378	41285	Very Low Income	9
+65378	41286	Extremely Low Income	1
+65378	41286	Low Income	2
+65378	41286	Very Low Income	7
+65378	40624	Low Income	1
+65378	40624	Very Low Income	9
+65378	40623	Extremely Low Income	1
+65378	40623	Low Income	2
+65378	40623	Very Low Income	7
+65378	3641	Low Income	2
+65378	3641	Very Low Income	13
+65378	4077	Extremely Low Income	3
+65378	4077	Low Income	3
+65378	4077	Very Low Income	10
+65378	3644	Extremely Low Income	3
+65378	3644	Low Income	2
+65378	3644	Very Low Income	11
+65378	3645	Extremely Low Income	1
+65378	3645	Low Income	1
+65378	3645	Very Low Income	8
+65378	3642	Extremely Low Income	4
+65378	3642	Low Income	3
+65378	3642	Very Low Income	6
+65378	3648	Extremely Low Income	6
+65378	3648	Low Income	1
+65378	3648	Very Low Income	2
+67129	986549	Extremely Low Income	50
+67129	986549	Other	1
+67129	986549	Very Low Income	19
+67130	988878	Extremely Low Income	148
+67130	988878	Low Income	96
+67130	988878	Other	1
+63221	88010	Extremely Low Income	75
+63221	88010	Low Income	2
+63221	88010	Other	1
+63221	88010	Very Low Income	81
+68073	831979	Low Income	88
+68073	831979	Moderate Income	1
+68073	831979	Other	1
+66105	988925	Extremely Low Income	153
+66105	988925	Other	1
+55500	1869	Low Income	92
+60762	723979	Low Income	177
+60762	723979	Other	1
+59032	966928	Low Income	77
+59032	966928	Middle Income	198
+59032	966928	Moderate Income	14
+59032	966928	Very Low Income	14
+55428	64060	Low Income	207
+55428	10709	Low Income	24
+55428	11879	Low Income	269
+55428	805037	Low Income	80
+55428	306316	Low Income	251
+55428	306316	Other	1
+55428	20311	Low Income	42
+55396	746078	Extremely Low Income	429
+55396	746078	Low Income	107
+67079	952514	Low Income	42
+67079	952514	Other	1
+67079	952514	Very Low Income	11
+67438	65186	Low Income	5
+67438	65186	Very Low Income	2
+67438	64094	Extremely Low Income	2
+67438	64094	Low Income	3
+67438	64094	Other	1
+67438	64094	Very Low Income	3
+67438	62841	Low Income	9
+67438	62841	Other	1
+67438	62841	Very Low Income	6
+67438	62835	Low Income	6
+67438	62835	Very Low Income	6
+67438	88157	Extremely Low Income	9
+67438	88157	Low Income	5
+67438	88157	Moderate Income	1
+67438	88157	Other	1
+67438	88157	Very Low Income	14
+67438	91417	Low Income	11
+67438	91417	Very Low Income	5
+65320	988893	Extremely Low Income	151
+65320	988893	Other	1
+59058	45448	Extremely Low Income	13
+59058	45448	Low Income	20
+59058	45448	Other	1
+59058	45448	Very Low Income	18
+67458	307978	Extremely Low Income	2
+67458	307978	Low Income	1
+67458	307978	Very Low Income	3
+67458	327776	Extremely Low Income	4
+67458	327776	Low Income	2
+67458	327776	Very Low Income	6
+67462	11267	Extremely Low Income	25
+67462	11267	Very Low Income	4
+66144	57063	Extremely Low Income	1
+66144	57063	Low Income	3
+66144	57063	Very Low Income	4
+66144	57062	Low Income	4
+66144	57062	Very Low Income	4
+66144	74463	Low Income	8
+66144	74463	Very Low Income	9
+66144	74464	Extremely Low Income	1
+66144	74464	Low Income	5
+66144	74464	Other	1
+66144	74464	Very Low Income	10
+66144	57059	Extremely Low Income	1
+66144	57059	Low Income	12
+66144	57059	Other	1
+66144	57059	Very Low Income	16
+66144	66001	Extremely Low Income	3
+66144	66001	Low Income	6
+66144	66001	Very Low Income	12
+68188	41496	Extremely Low Income	2
+68188	41496	Low Income	18
+68188	41496	Moderate Income	8
+68188	41496	Very Low Income	2
+68188	41491	Low Income	47
+68188	41491	Moderate Income	7
+68188	41491	Other	1
+68188	41491	Very Low Income	4
+66858	982995	Extremely Low Income	22
+66858	982995	Low Income	87
+66858	982995	Moderate Income	42
+66858	982995	Other	1
+66858	982995	Very Low Income	66
+65291	988140	Extremely Low Income	9
+65291	988140	Low Income	39
+65291	988140	Very Low Income	12
+65291	988250	Extremely Low Income	41
+65291	988250	Low Income	111
+65291	988250	Other	164
+65291	988250	Other	1
+65291	988250	Very Low Income	38
+67459	64496	Extremely Low Income	9
+67459	64496	Low Income	1
+67459	64496	Other	1
+67459	64496	Very Low Income	10
+67459	64494	Extremely Low Income	9
+67459	64494	Low Income	2
+67459	64494	Very Low Income	10
+67890	23647	Extremely Low Income	82
+67890	23647	Low Income	6
+67890	23647	Very Low Income	18
+67890	805961	Extremely Low Income	84
+67890	805961	Low Income	7
+67890	805961	Moderate Income	2
+67890	805961	Other	1
+67890	805961	Very Low Income	14
+63771	984735	Extremely Low Income	46
+63771	984735	Low Income	32
+63771	984735	Other	1
+63771	984735	Very Low Income	29
+65348	228119	Extremely Low Income	110
+65348	228119	Other	1
+65348	228119	Very Low Income	57
+60963	992737	Extremely Low Income	8
+60963	988831	Extremely Low Income	75
+60963	988831	Other	1
+58864	344530	Low Income	1
+58864	344530	Very Low Income	5
+58864	311887	Low Income	1
+58864	311887	Very Low Income	5
+58864	329139	Extremely Low Income	1
+58864	329139	Low Income	2
+58864	329139	Very Low Income	3
+58864	329095	Low Income	1
+58864	329095	Very Low Income	3
+58864	311892	Extremely Low Income	2
+58864	311892	Low Income	2
+58864	311892	Very Low Income	12
+58864	378230	Low Income	2
+58864	378230	Very Low Income	4
+58864	366659	Extremely Low Income	2
+58864	366659	Low Income	3
+58864	366659	Very Low Income	6
+58864	378231	Extremely Low Income	1
+58864	378231	Low Income	1
+58864	378231	Very Low Income	4
+66929	243980	Very Low Income	12
+65210	37267	Extremely Low Income	97
+53680	985795	Extremely Low Income	2
+53680	985795	Low Income	3
+53680	985795	Very Low Income	3
+53680	985151	Low Income	8
+53680	985805	Extremely Low Income	2
+53680	985805	Low Income	3
+53680	985805	Very Low Income	3
+53680	985801	Low Income	8
+53680	985802	Extremely Low Income	2
+53680	985802	Low Income	3
+53680	985802	Very Low Income	3
+53680	985803	Low Income	8
+53680	985799	Low Income	8
+53680	985797	Extremely Low Income	3
+53680	985797	Low Income	3
+53680	985797	Very Low Income	2
+53680	985804	Extremely Low Income	2
+53680	985804	Low Income	3
+53680	985804	Very Low Income	3
+53680	985800	Extremely Low Income	2
+53680	985800	Low Income	4
+53680	985800	Very Low Income	2
+53680	985806	Low Income	8
+53680	985796	Extremely Low Income	2
+53680	985796	Low Income	5
+53680	985796	Very Low Income	1
+53680	985789	Extremely Low Income	1
+53680	985789	Low Income	4
+53680	985789	Very Low Income	3
+53680	985792	Low Income	8
+53680	985791	Extremely Low Income	2
+53680	985791	Low Income	2
+53680	985791	Other	1
+53680	985791	Very Low Income	3
+53680	985794	Low Income	8
+53680	985793	Extremely Low Income	2
+53680	985793	Low Income	4
+53680	985793	Very Low Income	2
+53680	985790	Extremely Low Income	2
+53680	985790	Low Income	5
+53680	985790	Very Low Income	1
+53680	985786	Extremely Low Income	2
+53680	985786	Low Income	3
+53680	985786	Very Low Income	3
+53680	985798	Low Income	8
+53680	986184	Extremely Low Income	60
+53680	986184	Other	1
+53680	986184	Very Low Income	19
+67788	988341	Extremely Low Income	65
+67788	988341	Low Income	41
+67788	988341	Other	1
+68542	104641	Extremely Low Income	6
+68542	104641	Other	1
+68542	104641	Very Low Income	126
+64027	988996	Extremely Low Income	83
+64027	988996	Low Income	86
+64027	988996	Moderate Income	52
+64027	988996	Other	1
+64027	988996	Very Low Income	54
+64027	990498	Extremely Low Income	25
+64027	990498	Low Income	22
+64027	990498	Moderate Income	20
+64027	990498	Very Low Income	18
+67494	989187	Extremely Low Income	31
+67494	989187	Low Income	16
+67494	989187	Other	1
+64406	989393	Extremely Low Income	62
+64406	989393	Low Income	136
+64406	989393	Other	1
+64406	989393	Very Low Income	51
+67286	986841	Extremely Low Income	24
+67286	986841	Low Income	114
+67286	986841	Other	1
+67286	986841	Very Low Income	92
+67286	989998	Extremely Low Income	8
+67286	989998	Low Income	43
+67286	989998	Very Low Income	34
+67287	986252	Extremely Low Income	63
+62109	987706	Low Income	37
+62109	987706	Middle Income	127
+62109	987706	Moderate Income	63
+62109	987706	Other	1
+62109	987706	Very Low Income	27
+59032	966928	Low Income	77
+59032	966928	Middle Income	198
+59032	966928	Moderate Income	14
+59032	966928	Very Low Income	14
+67154	989040	Extremely Low Income	8
+67154	989040	Low Income	17
+67154	989040	Other	1
+67154	989040	Very Low Income	4
+63761	927041	Extremely Low Income	20
+63761	927041	Low Income	193
+63761	927041	Moderate Income	134
+63761	927041	Other	1
+63761	927041	Very Low Income	39
+61799	975338	Extremely Low Income	75
+61799	975338	Low Income	157
+61799	975338	Other	1
+61799	975338	Very Low Income	86
+67636	9438	Low Income	123
+67636	9438	Moderate Income	6
+67636	9438	Other	1
+67636	9438	Very Low Income	68
+63769	976030	Extremely Low Income	38
+63769	976030	Low Income	59
+63769	976030	Other	1
+63769	976030	Very Low Income	2
+66145	49240	Low Income	2
+66145	49240	Other	1
+66145	49240	Very Low Income	18
+66145	116556	Extremely Low Income	1
+66145	116556	Low Income	7
+66145	116556	Other	1
+66145	116556	Very Low Income	11
+66145	116555	Extremely Low Income	1
+66145	116555	Low Income	9
+66145	116555	Very Low Income	25
+66145	122024	Low Income	18
+66145	122024	Very Low Income	14
+66145	122023	Extremely Low Income	1
+66145	122023	Low Income	3
+66145	122023	Other	1
+66145	122023	Very Low Income	11
+67577	23412	Extremely Low Income	19
+67577	23412	Other	1
+67577	23412	Very Low Income	292
+67577	803887	Extremely Low Income	27
+67577	803887	Very Low Income	285
+67577	804988	Extremely Low Income	16
+67577	804988	Very Low Income	296
+67577	805982	Extremely Low Income	26
+67577	805982	Very Low Income	286
+67577	3638	Extremely Low Income	19
+67577	3638	Very Low Income	293
+67577	805981	Extremely Low Income	17
+67577	805981	Other	1
+67577	805981	Very Low Income	294
+62299	985940	Extremely Low Income	75
+62299	985940	Low Income	124
+62299	985940	Other	1
